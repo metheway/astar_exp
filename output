@@ -1,0 +1,1651 @@
+RTAA
+map:Shanghai_2_1024	path length:Unit: 20	126.99999	rtaa imp:0.3333333333333333
+map:Shanghai_2_1024	path length:Unit: 46	141.0	rtaa imp:0.1875
+map:Shanghai_2_1024	path length:Unit: 2	283.0	rtaa imp:0.25925925925925924
+map:Shanghai_2_1024	path length:Unit: 38	283.0	rtaa imp:0.22580645161290322
+map:Shanghai_2_1024	path length:Unit: 15	293.4	rtaa imp:0.21212121212121213
+map:Shanghai_2_1024	path length:Unit: 6	486.59998	rtaa imp:0.2926829268292683
+map:Shanghai_2_1024	path length:Unit: 17	428.19998	rtaa imp:0.20454545454545456
+map:Shanghai_2_1024	path length:Unit: 10	631.0	rtaa imp:0.2641509433962264
+map:Shanghai_2_1024	path length:Unit: 48	607.39996	rtaa imp:0.1509433962264151
+map:Shanghai_2_1024	path length:Unit: 24	766.60004	rtaa imp:0.15625
+map:Shanghai_2_1024	path length:Unit: 49	684.60004	rtaa imp:0.1791044776119403
+map:Shanghai_2_1024	path length:Unit: 4	776.8	rtaa imp:0.19444444444444445
+map:Shanghai_2_1024	path length:Unit: 36	1036.9999	rtaa imp:0.19047619047619047
+map:Shanghai_2_1024	path length:Unit: 35	1042.2	rtaa imp:0.19318181818181818
+map:Shanghai_2_1024	path length:Unit: 26	940.8001	rtaa imp:0.16853932584269662
+map:Shanghai_2_1024	path length:Unit: 14	1103.7999	rtaa imp:0.3263157894736842
+map:Shanghai_2_1024	path length:Unit: 23	1185.8	rtaa imp:0.26804123711340205
+map:Shanghai_2_1024	path length:Unit: 30	1333.0	rtaa imp:0.14150943396226415
+map:Shanghai_2_1024	path length:Unit: 25	1087.0	rtaa imp:0.1981981981981982
+map:Shanghai_2_1024	path length:Unit: 3	1271.0	rtaa imp:0.07079646017699115
+map:Shanghai_2_1024	path length:Unit: 42	1315.4004	rtaa imp:0.22123893805309736
+map:Shanghai_2_1024	path length:Unit: 22	1107.8	rtaa imp:0.12173913043478261
+map:Shanghai_2_1024	path length:Unit: 32	1225.0	rtaa imp:0.319672131147541
+map:Shanghai_2_1024	path length:Unit: 37	1556.9996	rtaa imp:0.12030075187969924
+map:Shanghai_2_1024	path length:Unit: 47	1573.0001	rtaa imp:0.1476510067114094
+map:Shanghai_2_1024	path length:Unit: 13	1543.8	rtaa imp:0.22580645161290322
+map:Shanghai_2_1024	path length:Unit: 27	1595.0	rtaa imp:0.16774193548387098
+map:Shanghai_2_1024	path length:Unit: 21	2043.0001	rtaa imp:0.19393939393939394
+map:Shanghai_2_1024	path length:	suc_rate:	0.56
+map:Shanghai_2_1024	path length:Unit: 20	19.0	a eaa:0.6	edge time63.0
+map:Shanghai_2_1024	path length:Unit: 46	20.4	a eaa:0.6666666666666666	edge time73.0
+map:Shanghai_2_1024	path length:Unit: 2	34.6	a eaa:0.7777777777777778	edge time39.0
+map:Shanghai_2_1024	path length:Unit: 38	34.6	a eaa:0.7272727272727273	edge time23.0
+map:Shanghai_2_1024	path length:Unit: 15	35.4	a eaa:0.45454545454545453	edge time17.0
+map:Shanghai_2_1024	path length:Unit: 6	55.200005	a eaa:8.857142857142858	edge time19.0
+map:Shanghai_2_1024	path length:Unit: 17	48.600002	a eaa:1.3333333333333333	edge time20.0
+map:Shanghai_2_1024	path length:Unit: 10	69.40001	a eaa:8.722222222222221	edge time64.0
+map:Shanghai_2_1024	path length:Unit: 48	65.00001	a eaa:1.2222222222222223	edge time13.0
+map:Shanghai_2_1024	path length:Unit: 49	66.0	a eaa:2.5	edge time51.0
+map:Shanghai_2_1024	path length:Unit: 24	80.799995	a eaa:6.954545454545454	edge time143.0
+map:Shanghai_2_1024	path length:Unit: 11	79.200005	a eaa:5.666666666666667	edge time100.0
+map:Shanghai_2_1024	path length:Unit: 4	82.0	a eaa:1.625	edge time20.0
+map:Shanghai_2_1024	path length:Unit: 16	91.6	a eaa:10.115384615384615	edge time52.0
+map:Shanghai_2_1024	path length:Unit: 1	89.600006	a eaa:3.3333333333333335	edge time65.0
+map:Shanghai_2_1024	path length:Unit: 40	96.40001	a eaa:5.285714285714286	edge time80.0
+map:Shanghai_2_1024	path length:Unit: 36	110.2	a eaa:2.2413793103448274	edge time21.0
+map:Shanghai_2_1024	path length:Unit: 0	110.399994	a eaa:2.3666666666666667	edge time57.0
+map:Shanghai_2_1024	path length:Unit: 26	101.6	a eaa:9.533333333333333	edge time104.0
+map:Shanghai_2_1024	path length:Unit: 35	104.19999	a eaa:7.133333333333334	edge time41.0
+map:Shanghai_2_1024	path length:Unit: 12	102.8	a eaa:9.633333333333333	edge time240.0
+map:Shanghai_2_1024	path length:Unit: 39	105.40001	a eaa:6.774193548387097	edge time33.0
+map:Shanghai_2_1024	path length:Unit: 18	123.79997	a eaa:2.303030303030303	edge time21.0
+map:Shanghai_2_1024	path length:Unit: 33	118.00002	a eaa:6.4	edge time61.0
+map:Shanghai_2_1024	path length:Unit: 30	135.59998	a eaa:39.77777777777778	edge time34.0
+map:Shanghai_2_1024	path length:Unit: 14	123.6	a eaa:15.38888888888889	edge time49.0
+map:Shanghai_2_1024	path length:Unit: 25	114.600006	a eaa:4.162162162162162	edge time28.0
+map:Shanghai_2_1024	path length:Unit: 23	130.79999	a eaa:5.868421052631579	edge time37.0
+map:Shanghai_2_1024	path length:Unit: 3	133.4	a eaa:24.894736842105264	edge time37.0
+map:Shanghai_2_1024	path length:Unit: 42	136.99998	a eaa:37.578947368421055	edge time27.0
+map:Shanghai_2_1024	path length:Unit: 22	123.200005	a eaa:7.256410256410256	edge time193.0
+map:Shanghai_2_1024	path length:	suc_rate:	0.62
+map:Shanghai_2_1024	path length:Unit: 20	18.999998	a rep imp:0.5
+map:Shanghai_2_1024	path length:Unit: 46	20.399998	a rep imp:0.5
+map:Shanghai_2_1024	path length:Unit: 2	34.6	a rep imp:0.0
+map:Shanghai_2_1024	path length:Unit: 38	34.6	a rep imp:0.0
+map:Shanghai_2_1024	path length:Unit: 15	35.4	a rep imp:0.0
+map:Shanghai_2_1024	path length:Unit: 6	55.199997	a rep imp:0.2
+map:Shanghai_2_1024	path length:Unit: 17	50.999996	a rep imp:0.6
+map:Shanghai_2_1024	path length:Unit: 10	69.399994	a rep imp:0.3333333333333333
+map:Shanghai_2_1024	path length:Unit: 48	66.2	a rep imp:0.0
+map:Shanghai_2_1024	path length:Unit: 49	65.2	a rep imp:0.0
+map:Shanghai_2_1024	path length:Unit: 4	85.59999	a rep imp:0.375
+map:Shanghai_2_1024	path length:Unit: 24	95.2	a rep imp:0.625
+map:Shanghai_2_1024	path length:Unit: 36	109.19999	a rep imp:0.1111111111111111
+map:Shanghai_2_1024	path length:Unit: 1	99.59999	a rep imp:0.6666666666666666
+map:Shanghai_2_1024	path length:Unit: 40	106.8	a rep imp:0.6666666666666666
+map:Shanghai_2_1024	path length:Unit: 35	111.799995	a rep imp:0.3
+map:Shanghai_2_1024	path length:Unit: 26	109.99999	a rep imp:0.5
+map:Shanghai_2_1024	path length:Unit: 23	130.79999	a rep imp:0.2727272727272727
+map:Shanghai_2_1024	path length:Unit: 30	142.0	a rep imp:0.2727272727272727
+map:Shanghai_2_1024	path length:Unit: 25	115.6	a rep imp:0.16666666666666666
+map:Shanghai_2_1024	path length:Unit: 3	133.4	a rep imp:0.3333333333333333
+map:Shanghai_2_1024	path length:Unit: 42	137.8	a rep imp:0.16666666666666666
+map:Shanghai_2_1024	path length:Unit: 22	122.600006	a rep imp:0.5
+map:Shanghai_2_1024	path length:Unit: 33	133.99998	a rep imp:0.5833333333333334
+map:Shanghai_2_1024	path length:Unit: 32	131.0	a rep imp:0.15384615384615385
+map:Shanghai_2_1024	path length:Unit: 34	171.79999	a rep imp:0.4
+map:Shanghai_2_1024	path length:Unit: 39	155.4	a rep imp:1.0
+map:Shanghai_2_1024	path length:Unit: 7	179.59998	a rep imp:0.4666666666666667
+map:Shanghai_2_1024	path length:Unit: 37	172.20001	a rep imp:0.26666666666666666
+map:Shanghai_2_1024	path length:Unit: 47	164.59999	a rep imp:0.25
+map:Shanghai_2_1024	path length:Unit: 27	165.79999	a rep imp:0.375
+map:Shanghai_2_1024	path length:Unit: 13	161.6	a rep imp:0.1875
+map:Shanghai_2_1024	path length:Unit: 45	186.0	a rep imp:0.25
+map:Shanghai_2_1024	path length:Unit: 21	217.39998	a rep imp:0.16666666666666666
+map:Shanghai_2_1024	path length:Unit: 19	245.59999	a rep imp:0.5454545454545454
+map:Shanghai_2_1024	path length:Unit: 41	287.4	a rep imp:0.2916666666666667
+map:Shanghai_2_1024	path length:	suc_rate:	0.72
+RTAA
+map:Berlin_1_1024	path length:Unit: 41	20.999998	rtaa imp:0.4
+map:Berlin_1_1024	path length:Unit: 28	121.39999	rtaa imp:0.14285714285714285
+map:Berlin_1_1024	path length:Unit: 20	147.4	rtaa imp:0.21052631578947367
+map:Berlin_1_1024	path length:Unit: 35	318.60004	rtaa imp:0.12903225806451613
+map:Berlin_1_1024	path length:Unit: 39	305.4	rtaa imp:0.6285714285714286
+map:Berlin_1_1024	path length:Unit: 12	406.2	rtaa imp:0.17777777777777778
+map:Berlin_1_1024	path length:Unit: 27	965.0001	rtaa imp:0.10714285714285714
+map:Berlin_1_1024	path length:Unit: 18	1163.0	rtaa imp:0.1981981981981982
+map:Berlin_1_1024	path length:	suc_rate:	0.16
+map:Berlin_1_1024	path length:Unit: 41	7.0	a eaa:0.5	edge time19.0
+map:Berlin_1_1024	path length:Unit: 28	18.4	a eaa:0.6	edge time19.0
+map:Berlin_1_1024	path length:Unit: 17	18.4	a eaa:0.5	edge time35.0
+map:Berlin_1_1024	path length:Unit: 20	20.2	a eaa:0.5714285714285714	edge time28.0
+map:Berlin_1_1024	path length:Unit: 35	36.2	a eaa:1.7272727272727273	edge time38.0
+map:Berlin_1_1024	path length:Unit: 39	35.4	a eaa:1.0	edge time39.0
+map:Berlin_1_1024	path length:Unit: 7	44.0	a eaa:1.8333333333333333	edge time66.0
+map:Berlin_1_1024	path length:Unit: 12	45.8	a eaa:1.2	edge time38.0
+map:Berlin_1_1024	path length:Unit: 45	53.8	a eaa:1.1875	edge time48.0
+map:Berlin_1_1024	path length:Unit: 43	63.800003	a eaa:2.111111111111111	edge time70.0
+map:Berlin_1_1024	path length:	suc_rate:	0.2
+map:Berlin_1_1024	path length:Unit: 41	7.0	a rep imp:0.0
+map:Berlin_1_1024	path length:Unit: 20	20.2	a rep imp:0.5
+map:Berlin_1_1024	path length:Unit: 28	22.199999	a rep imp:0.5
+map:Berlin_1_1024	path length:Unit: 17	25.8	a rep imp:0.6666666666666666
+map:Berlin_1_1024	path length:Unit: 35	36.999996	a rep imp:0.25
+map:Berlin_1_1024	path length:Unit: 39	35.4	a rep imp:0.25
+map:Berlin_1_1024	path length:Unit: 12	45.8	a rep imp:0.0
+map:Berlin_1_1024	path length:Unit: 38	78.399994	a rep imp:0.25
+map:Berlin_1_1024	path length:Unit: 27	102.0	a rep imp:0.5555555555555556
+map:Berlin_1_1024	path length:Unit: 18	122.59999	a rep imp:0.25
+map:Berlin_1_1024	path length:Unit: 36	138.0	a rep imp:0.15384615384615385
+map:Berlin_1_1024	path length:Unit: 15	146.6	a rep imp:0.15384615384615385
+map:Berlin_1_1024	path length:	suc_rate:	0.24
+RTAA
+map:Boston_0_1024	path length:Unit: 48	15.4	rtaa imp:0.2
+map:Boston_0_1024	path length:Unit: 17	51.0	rtaa imp:0.2222222222222222
+map:Boston_0_1024	path length:Unit: 42	250.99998	rtaa imp:0.24
+map:Boston_0_1024	path length:Unit: 41	424.99994	rtaa imp:0.09302325581395349
+map:Boston_0_1024	path length:Unit: 13	494.99997	rtaa imp:0.19148936170212766
+map:Boston_0_1024	path length:Unit: 16	580.99994	rtaa imp:0.28
+map:Boston_0_1024	path length:Unit: 2	672.9998	rtaa imp:0.14285714285714285
+map:Boston_0_1024	path length:Unit: 29	852.99994	rtaa imp:0.18181818181818182
+map:Boston_0_1024	path length:Unit: 26	883.0	rtaa imp:0.20689655172413793
+map:Boston_0_1024	path length:Unit: 44	1190.1997	rtaa imp:0.1935483870967742
+map:Boston_0_1024	path length:Unit: 3	941.0	rtaa imp:0.20212765957446807
+map:Boston_0_1024	path length:Unit: 6	1290.9999	rtaa imp:0.297029702970297
+map:Boston_0_1024	path length:Unit: 36	1162.6	rtaa imp:0.11965811965811966
+map:Boston_0_1024	path length:Unit: 22	1597.9994	rtaa imp:0.192
+map:Boston_0_1024	path length:Unit: 28	1708.9994	rtaa imp:0.09230769230769231
+map:Boston_0_1024	path length:Unit: 10	1630.5999	rtaa imp:0.23134328358208955
+map:Boston_0_1024	path length:Unit: 11	1734.5999	rtaa imp:0.20606060606060606
+map:Boston_0_1024	path length:	suc_rate:	0.34
+map:Boston_0_1024	path length:Unit: 48	5.4	a eaa:0.5	edge time39.0
+map:Boston_0_1024	path length:Unit: 17	11.0	a eaa:0.6666666666666666	edge time28.0
+map:Boston_0_1024	path length:Unit: 42	31.4	a eaa:1.0	edge time44.0
+map:Boston_0_1024	path length:	suc_rate:	0.06
+map:Boston_0_1024	path length:Unit: 48	5.4	a rep imp:1.0
+map:Boston_0_1024	path length:Unit: 17	11.0	a rep imp:0.0
+map:Boston_0_1024	path length:Unit: 42	31.399998	a rep imp:0.0
+map:Boston_0_1024	path length:Unit: 41	51.0	a rep imp:0.2
+map:Boston_0_1024	path length:Unit: 13	55.799995	a rep imp:0.6
+map:Boston_0_1024	path length:Unit: 16	64.399994	a rep imp:0.4
+map:Boston_0_1024	path length:Unit: 4	64.2	a rep imp:0.3333333333333333
+map:Boston_0_1024	path length:Unit: 2	73.6	a rep imp:0.16666666666666666
+map:Boston_0_1024	path length:Unit: 19	79.19999	a rep imp:0.3333333333333333
+map:Boston_0_1024	path length:Unit: 29	91.59999	a rep imp:0.14285714285714285
+map:Boston_0_1024	path length:Unit: 15	90.8	a rep imp:0.3333333333333333
+map:Boston_0_1024	path length:Unit: 26	94.6	a rep imp:0.0
+map:Boston_0_1024	path length:Unit: 44	124.99999	a rep imp:0.3
+map:Boston_0_1024	path length:Unit: 3	100.399994	a rep imp:0.4
+map:Boston_0_1024	path length:Unit: 6	133.79999	a rep imp:0.6363636363636364
+map:Boston_0_1024	path length:Unit: 40	154.79999	a rep imp:0.25
+map:Boston_0_1024	path length:Unit: 36	120.6	a rep imp:0.25
+map:Boston_0_1024	path length:Unit: 9	157.0	a rep imp:0.75
+map:Boston_0_1024	path length:Unit: 1	186.99997	a rep imp:0.07142857142857142
+map:Boston_0_1024	path length:Unit: 22	176.19998	a rep imp:0.35714285714285715
+map:Boston_0_1024	path length:Unit: 35	205.0	a rep imp:0.2
+map:Boston_0_1024	path length:Unit: 28	192.0	a rep imp:0.6875
+map:Boston_0_1024	path length:Unit: 11	179.4	a rep imp:0.4117647058823529
+RTAA
+map:Denver_0_1024	path length:Unit: 31	316.19998	rtaa imp:0.38235294117647056
+map:Denver_0_1024	path length:Unit: 45	448.19998	rtaa imp:0.25
+map:Denver_0_1024	path length:Unit: 17	446.79987	rtaa imp:0.21428571428571427
+map:Denver_0_1024	path length:Unit: 41	395.0	rtaa imp:0.29545454545454547
+map:Denver_0_1024	path length:Unit: 35	607.0	rtaa imp:0.6122448979591837
+map:Denver_0_1024	path length:Unit: 18	537.0	rtaa imp:0.2037037037037037
+map:Denver_0_1024	path length:Unit: 2	652.2	rtaa imp:0.10909090909090909
+map:Denver_0_1024	path length:Unit: 8	583.1999	rtaa imp:0.09836065573770492
+map:Denver_0_1024	path length:Unit: 0	762.9999	rtaa imp:0.2318840579710145
+map:Denver_0_1024	path length:Unit: 33	827.0	rtaa imp:0.22535211267605634
+map:Denver_0_1024	path length:Unit: 43	866.6	rtaa imp:0.2112676056338028
+map:Denver_0_1024	path length:Unit: 27	813.0	rtaa imp:0.1625
+map:Denver_0_1024	path length:Unit: 30	891.4	rtaa imp:0.12195121951219512
+map:Denver_0_1024	path length:Unit: 26	1013.00006	rtaa imp:0.17857142857142858
+map:Denver_0_1024	path length:Unit: 23	872.2	rtaa imp:0.29069767441860467
+map:Denver_0_1024	path length:Unit: 28	823.4	rtaa imp:0.3023255813953488
+map:Denver_0_1024	path length:Unit: 44	1055.7999	rtaa imp:0.14130434782608695
+map:Denver_0_1024	path length:Unit: 12	953.00037	rtaa imp:0.19791666666666666
+map:Denver_0_1024	path length:Unit: 14	1267.4	rtaa imp:0.22772277227722773
+map:Denver_0_1024	path length:Unit: 5	1278.9999	rtaa imp:0.3300970873786408
+map:Denver_0_1024	path length:Unit: 20	1278.2	rtaa imp:0.1592920353982301
+map:Denver_0_1024	path length:Unit: 32	1401.0009	rtaa imp:0.1865671641791045
+map:Denver_0_1024	path length:Unit: 49	1466.2009	rtaa imp:0.20588235294117646
+map:Denver_0_1024	path length:Unit: 21	1636.9998	rtaa imp:0.09090909090909091
+map:Denver_0_1024	path length:Unit: 40	2035.0002	rtaa imp:0.2947976878612717
+map:Denver_0_1024	path length:	suc_rate:	0.5
+map:Denver_0_1024	path length:Unit: 31	36.800003	a eaa:1.4166666666666667	edge time52.0
+map:Denver_0_1024	path length:Unit: 45	50.4	a eaa:0.8571428571428571	edge time34.0
+map:Denver_0_1024	path length:Unit: 17	51.2	a eaa:5.0	edge time31.0
+map:Denver_0_1024	path length:Unit: 41	44.0	a eaa:1.2	edge time18.0
+map:Denver_0_1024	path length:Unit: 35	67.00001	a eaa:1.7647058823529411	edge time17.0
+map:Denver_0_1024	path length:Unit: 18	60.000004	a eaa:0.6666666666666666	edge time24.0
+map:Denver_0_1024	path length:Unit: 46	58.800003	a eaa:2.888888888888889	edge time36.0
+map:Denver_0_1024	path length:Unit: 2	71.4	a eaa:1.5789473684210527	edge time48.0
+map:Denver_0_1024	path length:Unit: 8	64.6	a eaa:1.619047619047619	edge time18.0
+map:Denver_0_1024	path length:Unit: 4	81.6	a eaa:13.590909090909092	edge time24.0
+map:Denver_0_1024	path length:Unit: 0	82.6	a eaa:8.304347826086957	edge time34.0
+map:Denver_0_1024	path length:Unit: 33	89.00001	a eaa:13.208333333333334	edge time27.0
+map:Denver_0_1024	path length:Unit: 43	93.0	a eaa:35.583333333333336	edge time20.0
+map:Denver_0_1024	path length:Unit: 25	85.40001	a eaa:3.8518518518518516	edge time28.0
+map:Denver_0_1024	path length:Unit: 27	87.6	a eaa:1.5925925925925926	edge time20.0
+map:Denver_0_1024	path length:Unit: 24	89.40001	a eaa:12.37037037037037	edge time230.0
+map:Denver_0_1024	path length:Unit: 30	94.0	a eaa:15.178571428571429	edge time34.0
+map:Denver_0_1024	path length:Unit: 26	107.600006	a eaa:16.107142857142858	edge time20.0
+map:Denver_0_1024	path length:Unit: 23	92.399994	a eaa:2.7586206896551726	edge time34.0
+map:Denver_0_1024	path length:Unit: 28	88.0	a eaa:1.4482758620689655	edge time30.0
+map:Denver_0_1024	path length:Unit: 34	101.200005	a eaa:7.033333333333333	edge time100.0
+map:Denver_0_1024	path length:Unit: 1	101.4	a eaa:4.516129032258065	edge time138.0
+map:Denver_0_1024	path length:Unit: 48	98.2	a eaa:9.612903225806452	edge time497.0
+map:Denver_0_1024	path length:Unit: 9	107.600006	a eaa:7.838709677419355	edge time19.0
+map:Denver_0_1024	path length:Unit: 44	111.19998	a eaa:18.29032258064516	edge time21.0
+map:Denver_0_1024	path length:Unit: 12	100.8	a eaa:1.53125	edge time26.0
+map:Denver_0_1024	path length:Unit: 14	131.79999	a eaa:1.9411764705882353	edge time38.0
+map:Denver_0_1024	path length:Unit: 5	134.19998	a eaa:1.8857142857142857	edge time13.0
+map:Denver_0_1024	path length:Unit: 40	147.59996	a eaa:79.5	edge time18.0
+map:Denver_0_1024	path length:Unit: 20	134.6	a eaa:2.2564102564102564	edge time25.0
+map:Denver_0_1024	path length:Unit: 11	124.600006	a eaa:2.025	edge time22.0
+map:Denver_0_1024	path length:Unit: 38	140.4	a eaa:2.4523809523809526	edge time24.0
+map:Denver_0_1024	path length:Unit: 32	140.4	a eaa:12.767441860465116	edge time77.0
+map:Denver_0_1024	path length:Unit: 49	151.2	a eaa:11.282608695652174	edge time29.0
+map:Denver_0_1024	path length:Unit: 22	147.4	a eaa:9.212765957446809	edge time48.0
+map:Denver_0_1024	path length:	suc_rate:	0.7
+map:Denver_0_1024	path length:Unit: 31	36.8	a rep imp:0.0
+map:Denver_0_1024	path length:Unit: 45	50.399994	a rep imp:0.0
+map:Denver_0_1024	path length:Unit: 17	52.8	a rep imp:0.4
+map:Denver_0_1024	path length:Unit: 41	44.0	a rep imp:0.0
+map:Denver_0_1024	path length:Unit: 35	66.99999	a rep imp:0.2
+map:Denver_0_1024	path length:Unit: 18	59.999996	a rep imp:0.3333333333333333
+map:Denver_0_1024	path length:Unit: 2	71.399994	a rep imp:0.0
+map:Denver_0_1024	path length:Unit: 8	64.6	a rep imp:0.0
+map:Denver_0_1024	path length:Unit: 0	82.6	a rep imp:0.14285714285714285
+map:Denver_0_1024	path length:Unit: 33	88.99999	a rep imp:0.375
+map:Denver_0_1024	path length:Unit: 43	92.99999	a rep imp:0.25
+map:Denver_0_1024	path length:Unit: 27	87.6	a rep imp:0.125
+map:Denver_0_1024	path length:Unit: 30	93.99999	a rep imp:0.2222222222222222
+map:Denver_0_1024	path length:Unit: 26	107.59998	a rep imp:0.1111111111111111
+map:Denver_0_1024	path length:Unit: 28	88.0	a rep imp:0.4444444444444444
+map:Denver_0_1024	path length:Unit: 23	93.399994	a rep imp:0.2222222222222222
+map:Denver_0_1024	path length:Unit: 44	111.19999	a rep imp:0.4
+map:Denver_0_1024	path length:Unit: 9	113.399994	a rep imp:0.6
+map:Denver_0_1024	path length:Unit: 12	100.8	a rep imp:0.2
+map:Denver_0_1024	path length:Unit: 14	131.79999	a rep imp:0.45454545454545453
+map:Denver_0_1024	path length:Unit: 1	115.399994	a rep imp:0.45454545454545453
+map:Denver_0_1024	path length:Unit: 5	134.2	a rep imp:0.09090909090909091
+map:Denver_0_1024	path length:Unit: 40	147.59999	a rep imp:0.25
+map:Denver_0_1024	path length:Unit: 20	134.4	a rep imp:0.25
+map:Denver_0_1024	path length:Unit: 11	127.799995	a rep imp:0.08333333333333333
+map:Denver_0_1024	path length:Unit: 32	147.0	a rep imp:0.35714285714285715
+map:Denver_0_1024	path length:Unit: 49	160.8	a rep imp:0.42857142857142855
+map:Denver_0_1024	path length:Unit: 21	168.79999	a rep imp:0.06666666666666667
+map:Denver_0_1024	path length:Unit: 36	188.59999	a rep imp:0.125
+map:Denver_0_1024	path length:Unit: 47	186.79999	a rep imp:0.11764705882352941
+map:Denver_0_1024	path length:Unit: 16	211.39998	a rep imp:0.16666666666666666
+map:Denver_0_1024	path length:Unit: 3	210.99998	a rep imp:0.2222222222222222
+map:Denver_0_1024	path length:Unit: 19	233.0	a rep imp:0.17391304347826086
+map:Denver_0_1024	path length:	suc_rate:	0.66
+RTAA
+map:Sydney_2_1024	path length:Unit: 40	7.2	rtaa imp:0.0
+map:Sydney_2_1024	path length:Unit: 47	38.4	rtaa imp:0.125
+map:Sydney_2_1024	path length:Unit: 15	66.2	rtaa imp:0.3
+map:Sydney_2_1024	path length:Unit: 0	135.4	rtaa imp:0.6111111111111112
+map:Sydney_2_1024	path length:Unit: 7	219.0	rtaa imp:0.19230769230769232
+map:Sydney_2_1024	path length:Unit: 34	324.99997	rtaa imp:0.23333333333333334
+map:Sydney_2_1024	path length:Unit: 22	325.4	rtaa imp:0.16216216216216217
+map:Sydney_2_1024	path length:Unit: 14	337.59998	rtaa imp:0.20512820512820512
+map:Sydney_2_1024	path length:Unit: 27	367.0	rtaa imp:0.1282051282051282
+map:Sydney_2_1024	path length:Unit: 29	365.4	rtaa imp:0.17073170731707318
+map:Sydney_2_1024	path length:Unit: 43	439.79996	rtaa imp:0.24390243902439024
+map:Sydney_2_1024	path length:Unit: 33	488.99997	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 11	399.0	rtaa imp:0.13636363636363635
+map:Sydney_2_1024	path length:Unit: 9	609.0	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 38	549.0	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 13	815.0002	rtaa imp:0.1506849315068493
+map:Sydney_2_1024	path length:Unit: 49	839.0	rtaa imp:0.1780821917808219
+map:Sydney_2_1024	path length:Unit: 25	1308.9998	rtaa imp:0.2641509433962264
+map:Sydney_2_1024	path length:Unit: 35	1123.0002	rtaa imp:0.1559633027522936
+map:Sydney_2_1024	path length:Unit: 44	1721.0	rtaa imp:0.20833333333333334
+map:Sydney_2_1024	path length:	suc_rate:	0.4
+map:Sydney_2_1024	path length:Unit: 40	3.8	a eaa:0.0	edge time20.0
+map:Sydney_2_1024	path length:Unit: 47	9.2	a eaa:0.0	edge time16.0
+map:Sydney_2_1024	path length:Unit: 15	12.799999	a eaa:0.25	edge time21.0
+map:Sydney_2_1024	path length:Unit: 0	18.4	a eaa:1.1666666666666667	edge time24.0
+map:Sydney_2_1024	path length:Unit: 7	27.6	a eaa:0.8888888888888888	edge time29.0
+map:Sydney_2_1024	path length:Unit: 34	38.800003	a eaa:0.8	edge time26.0
+map:Sydney_2_1024	path length:Unit: 22	37.4	a eaa:0.9230769230769231	edge time28.0
+map:Sydney_2_1024	path length:Unit: 14	42.2	a eaa:1.2307692307692308	edge time27.0
+map:Sydney_2_1024	path length:Unit: 27	43.0	a eaa:0.9230769230769231	edge time26.0
+map:Sydney_2_1024	path length:Unit: 29	41.4	a eaa:0.7857142857142857	edge time17.0
+map:Sydney_2_1024	path length:Unit: 43	50.2	a eaa:5.5	edge time17.0
+map:Sydney_2_1024	path length:Unit: 33	55.200005	a eaa:11.571428571428571	edge time24.0
+map:Sydney_2_1024	path length:Unit: 11	45.6	a eaa:0.8	edge time18.0
+map:Sydney_2_1024	path length:Unit: 8	56.000004	a eaa:2.888888888888889	edge time31.0
+map:Sydney_2_1024	path length:Unit: 9	67.200005	a eaa:1.0555555555555556	edge time22.0
+map:Sydney_2_1024	path length:Unit: 38	61.199997	a eaa:2.0	edge time21.0
+map:Sydney_2_1024	path length:Unit: 37	70.40001	a eaa:5.238095238095238	edge time22.0
+map:Sydney_2_1024	path length:Unit: 18	73.0	a eaa:5.454545454545454	edge time52.0
+map:Sydney_2_1024	path length:Unit: 49	90.20001	a eaa:10.52	edge time19.0
+map:Sydney_2_1024	path length:Unit: 19	88.39999	a eaa:7.346153846153846	edge time167.0
+map:Sydney_2_1024	path length:Unit: 13	92.40001	a eaa:2.5714285714285716	edge time88.0
+map:Sydney_2_1024	path length:Unit: 2	99.40001	a eaa:4.333333333333333	edge time56.0
+map:Sydney_2_1024	path length:Unit: 48	105.600006	a eaa:3.0	edge time133.0
+map:Sydney_2_1024	path length:Unit: 5	131.79997	a eaa:26.228571428571428	edge time33.0
+map:Sydney_2_1024	path length:Unit: 25	135.0	a eaa:2.3783783783783785	edge time17.0
+map:Sydney_2_1024	path length:Unit: 35	118.8	a eaa:2.7567567567567566	edge time165.0
+map:Sydney_2_1024	path length:Unit: 17	128.20001	a eaa:14.710526315789474	edge time80.0
+map:Sydney_2_1024	path length:Unit: 30	131.0	a eaa:8.820512820512821	edge time372.0
+map:Sydney_2_1024	path length:Unit: 21	129.8	a eaa:12.15	edge time602.0
+map:Sydney_2_1024	path length:Unit: 23	145.4	a eaa:19.926829268292682	edge time938.0
+map:Sydney_2_1024	path length:Unit: 1	139.80002	a eaa:6.444444444444445	edge time245.0
+map:Sydney_2_1024	path length:Unit: 28	168.19997	a eaa:9.666666666666666	edge time66.0
+map:Sydney_2_1024	path length:Unit: 10	163.59998	a eaa:25.369565217391305	edge time219.0
+map:Sydney_2_1024	path length:Unit: 20	154.99998	a eaa:18.106382978723403	edge time667.0
+map:Sydney_2_1024	path length:Unit: 3	157.79999	a eaa:32.59183673469388	edge time1892.0
+map:Sydney_2_1024	path length:Unit: 39	162.19998	a eaa:21.612244897959183	edge time1117.0
+map:Sydney_2_1024	path length:Unit: 6	166.79999	a eaa:24.20408163265306	edge time40.0
+map:Sydney_2_1024	path length:Unit: 12	176.59999	a eaa:37.38	edge time28.0
+map:Sydney_2_1024	path length:	suc_rate:	0.76
+map:Sydney_2_1024	path length:Unit: 40	3.8	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 47	9.2	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 15	12.799999	a rep imp:1.0
+map:Sydney_2_1024	path length:Unit: 0	18.4	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 7	27.6	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 34	38.799995	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 22	37.4	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 14	42.2	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 27	43.0	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 29	41.4	a rep imp:0.2
+map:Sydney_2_1024	path length:Unit: 33	55.199993	a rep imp:0.2
+map:Sydney_2_1024	path length:Unit: 43	51.199997	a rep imp:0.6
+map:Sydney_2_1024	path length:Unit: 11	45.6	a rep imp:0.4
+map:Sydney_2_1024	path length:Unit: 9	67.19999	a rep imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 38	61.199997	a rep imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 49	90.19999	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 13	89.0	a rep imp:0.75
+map:Sydney_2_1024	path length:Unit: 18	83.2	a rep imp:0.375
+map:Sydney_2_1024	path length:Unit: 5	132.59998	a rep imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 25	135.59999	a rep imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 35	119.4	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 17	136.6	a rep imp:0.4166666666666667
+map:Sydney_2_1024	path length:Unit: 1	158.59999	a rep imp:0.125
+map:Sydney_2_1024	path length:Unit: 12	184.99997	a rep imp:0.1875
+map:Sydney_2_1024	path length:Unit: 45	209.99998	a rep imp:0.17647058823529413
+map:Sydney_2_1024	path length:Unit: 16	192.79999	a rep imp:0.23529411764705882
+map:Sydney_2_1024	path length:Unit: 44	178.4	a rep imp:0.17647058823529413
+map:Sydney_2_1024	path length:Unit: 4	246.4	a rep imp:0.391304347826087
+map:Sydney_2_1024	path length:	suc_rate:	0.56
+RTAA
+map:Sydney_2_1024	path length:Unit: 44	36.4	rtaa imp:0.125
+map:Sydney_2_1024	path length:Unit: 78	83.4	rtaa imp:0.4166666666666667
+map:Sydney_2_1024	path length:Unit: 103	106.2	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 168	126.99999	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 14	115.4	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 129	110.4	rtaa imp:0.1875
+map:Sydney_2_1024	path length:Unit: 89	203.0	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 47	208.99998	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 26	264.99997	rtaa imp:0.2916666666666667
+map:Sydney_2_1024	path length:Unit: 57	235.0	rtaa imp:0.10714285714285714
+map:Sydney_2_1024	path length:Unit: 86	279.4	rtaa imp:0.3548387096774194
+map:Sydney_2_1024	path length:Unit: 64	396.99997	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 16	437.0	rtaa imp:0.13157894736842105
+map:Sydney_2_1024	path length:Unit: 69	392.99997	rtaa imp:0.13157894736842105
+map:Sydney_2_1024	path length:Unit: 123	415.0	rtaa imp:0.11627906976744186
+map:Sydney_2_1024	path length:Unit: 151	385.4	rtaa imp:0.18604651162790697
+map:Sydney_2_1024	path length:Unit: 105	409.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 58	506.99997	rtaa imp:0.20408163265306123
+map:Sydney_2_1024	path length:Unit: 30	646.99994	rtaa imp:0.1568627450980392
+map:Sydney_2_1024	path length:Unit: 95	508.59998	rtaa imp:0.2830188679245283
+map:Sydney_2_1024	path length:Unit: 164	634.6	rtaa imp:0.24528301886792453
+map:Sydney_2_1024	path length:Unit: 1	732.99994	rtaa imp:0.08333333333333333
+map:Sydney_2_1024	path length:Unit: 118	556.19995	rtaa imp:0.21666666666666667
+map:Sydney_2_1024	path length:Unit: 165	657.0	rtaa imp:0.13333333333333333
+map:Sydney_2_1024	path length:Unit: 21	737.0	rtaa imp:0.1774193548387097
+map:Sydney_2_1024	path length:Unit: 65	725.0	rtaa imp:0.2903225806451613
+map:Sydney_2_1024	path length:Unit: 2	681.0	rtaa imp:0.109375
+map:Sydney_2_1024	path length:Unit: 137	719.7999	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 154	782.00006	rtaa imp:0.22727272727272727
+map:Sydney_2_1024	path length:Unit: 175	771.19995	rtaa imp:0.24242424242424243
+map:Sydney_2_1024	path length:Unit: 187	678.19995	rtaa imp:0.12121212121212122
+map:Sydney_2_1024	path length:Unit: 51	751.8	rtaa imp:0.13043478260869565
+RTAA
+map:Sydney_2_1024	path length:Unit: 730	8.4	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 284	17.4	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 767	24.4	rtaa imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 428	34.800003	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 512	29.2	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 522	28.4	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 443	50.399998	rtaa imp:0.375
+map:Sydney_2_1024	path length:Unit: 781	67.4	rtaa imp:0.36363636363636365
+map:Sydney_2_1024	path length:Unit: 102	99.4	rtaa imp:0.07692307692307693
+map:Sydney_2_1024	path length:Unit: 122	103.0	rtaa imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 526	101.0	rtaa imp:0.0
+map:Sydney_2_1024	path length:Unit: 331	142.99998	rtaa imp:0.26666666666666666
+map:Sydney_2_1024	path length:Unit: 601	147.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 134	129.4	rtaa imp:1.25
+map:Sydney_2_1024	path length:Unit: 346	156.99998	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 872	142.19998	rtaa imp:0.125
+map:Sydney_2_1024	path length:Unit: 942	148.99998	rtaa imp:0.125
+map:Sydney_2_1024	path length:Unit: 432	129.0	rtaa imp:0.11764705882352941
+map:Sydney_2_1024	path length:Unit: 899	124.4	rtaa imp:0.29411764705882354
+map:Sydney_2_1024	path length:Unit: 109	141.0	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 588	174.99998	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 914	198.99998	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 610	184.99998	rtaa imp:0.35
+map:Sydney_2_1024	path length:Unit: 702	169.4	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 282	171.0	rtaa imp:0.047619047619047616
+map:Sydney_2_1024	path length:Unit: 525	187.0	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 691	180.59999	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 327	175.4	rtaa imp:0.22727272727272727
+map:Sydney_2_1024	path length:Unit: 689	240.99997	rtaa imp:0.36363636363636365
+map:Sydney_2_1024	path length:Unit: 718	185.8	rtaa imp:0.22727272727272727
+map:Sydney_2_1024	path length:Unit: 619	208.19998	rtaa imp:0.17391304347826086
+map:Sydney_2_1024	path length:Unit: 746	246.99997	rtaa imp:0.17391304347826086
+map:Sydney_2_1024	path length:Unit: 917	246.99997	rtaa imp:0.21739130434782608
+map:Sydney_2_1024	path length:Unit: 805	256.99997	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 804	208.6	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 585	225.0	rtaa imp:0.25925925925925924
+map:Sydney_2_1024	path length:Unit: 642	275.0	rtaa imp:0.14814814814814814
+map:Sydney_2_1024	path length:Unit: 646	230.2	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 655	250.99998	rtaa imp:0.1111111111111111
+map:Sydney_2_1024	path length:Unit: 933	271.0	rtaa imp:0.07407407407407407
+map:Sydney_2_1024	path length:Unit: 385	237.0	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 457	312.99997	rtaa imp:0.17857142857142858
+map:Sydney_2_1024	path length:Unit: 66	222.99998	rtaa imp:0.20689655172413793
+map:Sydney_2_1024	path length:Unit: 179	251.0	rtaa imp:0.3103448275862069
+map:Sydney_2_1024	path length:Unit: 397	246.2	rtaa imp:0.1724137931034483
+map:Sydney_2_1024	path length:Unit: 600	298.59998	rtaa imp:0.13793103448275862
+map:Sydney_2_1024	path length:Unit: 69	314.2	rtaa imp:0.06666666666666667
+map:Sydney_2_1024	path length:Unit: 259	281.8	rtaa imp:0.1
+map:Sydney_2_1024	path length:Unit: 480	308.59998	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 516	303.8	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 636	249.59999	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 731	289.8	rtaa imp:0.26666666666666666
+map:Sydney_2_1024	path length:Unit: 893	317.59998	rtaa imp:0.23333333333333334
+map:Sydney_2_1024	path length:Unit: 227	358.99997	rtaa imp:0.25806451612903225
+map:Sydney_2_1024	path length:Unit: 61	279.8	rtaa imp:0.21875
+map:Sydney_2_1024	path length:Unit: 189	287.0	rtaa imp:0.15625
+map:Sydney_2_1024	path length:Unit: 423	275.0	rtaa imp:0.09375
+map:Sydney_2_1024	path length:Unit: 831	299.0	rtaa imp:0.15625
+map:Sydney_2_1024	path length:Unit: 940	276.2	rtaa imp:0.28125
+map:Sydney_2_1024	path length:Unit: 48	288.59998	rtaa imp:0.36363636363636365
+map:Sydney_2_1024	path length:Unit: 624	346.99997	rtaa imp:0.30303030303030304
+map:Sydney_2_1024	path length:Unit: 94	337.0	rtaa imp:0.17647058823529413
+map:Sydney_2_1024	path length:Unit: 248	396.19998	rtaa imp:0.29411764705882354
+map:Sydney_2_1024	path length:Unit: 375	408.99997	rtaa imp:0.29411764705882354
+map:Sydney_2_1024	path length:Unit: 261	327.8	rtaa imp:0.34285714285714286
+map:Sydney_2_1024	path length:Unit: 570	320.59998	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 669	398.59998	rtaa imp:0.2571428571428571
+map:Sydney_2_1024	path length:Unit: 305	369.0	rtaa imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 867	329.4	rtaa imp:0.19444444444444445
+map:Sydney_2_1024	path length:Unit: 100	329.0	rtaa imp:0.2702702702702703
+map:Sydney_2_1024	path length:Unit: 683	326.2	rtaa imp:0.2972972972972973
+map:Sydney_2_1024	path length:Unit: 708	359.8	rtaa imp:0.13513513513513514
+map:Sydney_2_1024	path length:Unit: 9	412.19998	rtaa imp:0.21052631578947367
+map:Sydney_2_1024	path length:Unit: 890	431.80002	rtaa imp:0.15789473684210525
+map:Sydney_2_1024	path length:Unit: 45	395.0	rtaa imp:0.1794871794871795
+map:Sydney_2_1024	path length:Unit: 771	386.19995	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 960	402.99997	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 373	476.59998	rtaa imp:0.4
+map:Sydney_2_1024	path length:Unit: 613	397.0	rtaa imp:1.475
+map:Sydney_2_1024	path length:Unit: 317	482.60004	rtaa imp:0.1951219512195122
+map:Sydney_2_1024	path length:Unit: 924	377.8	rtaa imp:0.24390243902439024
+map:Sydney_2_1024	path length:Unit: 993	395.0	rtaa imp:0.12195121951219512
+map:Sydney_2_1024	path length:Unit: 10	394.2	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 165	406.40002	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 240	456.00003	rtaa imp:0.30952380952380953
+map:Sydney_2_1024	path length:Unit: 427	421.8	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 561	418.99997	rtaa imp:0.30952380952380953
+map:Sydney_2_1024	path length:Unit: 688	381.0	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 769	491.79996	rtaa imp:0.2619047619047619
+map:Sydney_2_1024	path length:Unit: 977	380.0	rtaa imp:0.19047619047619047
+map:Sydney_2_1024	path length:Unit: 37	403.0	rtaa imp:0.18604651162790697
+map:Sydney_2_1024	path length:Unit: 60	468.19998	rtaa imp:0.27906976744186046
+map:Sydney_2_1024	path length:Unit: 106	431.0	rtaa imp:0.20930232558139536
+map:Sydney_2_1024	path length:Unit: 121	529.0	rtaa imp:0.20930232558139536
+map:Sydney_2_1024	path length:Unit: 123	529.0	rtaa imp:0.3023255813953488
+map:Sydney_2_1024	path length:Unit: 265	416.19998	rtaa imp:0.27906976744186046
+map:Sydney_2_1024	path length:Unit: 374	410.59998	rtaa imp:0.16279069767441862
+map:Sydney_2_1024	path length:Unit: 419	397.4	rtaa imp:0.2558139534883721
+map:Sydney_2_1024	path length:Unit: 761	539.0	rtaa imp:0.3023255813953488
+map:Sydney_2_1024	path length:Unit: 788	423.00003	rtaa imp:0.18604651162790697
+map:Sydney_2_1024	path length:Unit: 918	413.79996	rtaa imp:0.20930232558139536
+map:Sydney_2_1024	path length:Unit: 382	513.0	rtaa imp:0.20454545454545456
+map:Sydney_2_1024	path length:Unit: 953	451.79996	rtaa imp:0.13636363636363635
+map:Sydney_2_1024	path length:Unit: 86	533.4	rtaa imp:0.28888888888888886
+map:Sydney_2_1024	path length:Unit: 353	462.99997	rtaa imp:0.4
+map:Sydney_2_1024	path length:Unit: 485	414.59998	rtaa imp:0.28888888888888886
+map:Sydney_2_1024	path length:Unit: 596	528.6	rtaa imp:0.28888888888888886
+map:Sydney_2_1024	path length:Unit: 684	562.2	rtaa imp:0.24444444444444444
+map:Sydney_2_1024	path length:Unit: 763	406.2	rtaa imp:0.1111111111111111
+map:Sydney_2_1024	path length:Unit: 875	487.79996	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 139	454.2	rtaa imp:0.21739130434782608
+map:Sydney_2_1024	path length:Unit: 324	464.59998	rtaa imp:0.21739130434782608
+map:Sydney_2_1024	path length:Unit: 479	428.59998	rtaa imp:0.2608695652173913
+map:Sydney_2_1024	path length:Unit: 631	499.80005	rtaa imp:0.2608695652173913
+map:Sydney_2_1024	path length:Unit: 791	489.79987	rtaa imp:0.2391304347826087
+map:Sydney_2_1024	path length:Unit: 158	462.99997	rtaa imp:0.2127659574468085
+map:Sydney_2_1024	path length:Unit: 430	508.19998	rtaa imp:0.1702127659574468
+map:Sydney_2_1024	path length:Unit: 978	519.0	rtaa imp:0.2553191489361702
+map:Sydney_2_1024	path length:Unit: 454	608.6	rtaa imp:0.3125
+map:Sydney_2_1024	path length:Unit: 124	451.0	rtaa imp:0.20408163265306123
+map:Sydney_2_1024	path length:Unit: 986	483.39996	rtaa imp:0.24489795918367346
+map:Sydney_2_1024	path length:Unit: 132	531.7999	rtaa imp:0.26
+map:Sydney_2_1024	path length:Unit: 152	456.19998	rtaa imp:0.28
+map:Sydney_2_1024	path length:Unit: 520	613.0	rtaa imp:0.28
+map:Sydney_2_1024	path length:Unit: 527	524.2001	rtaa imp:0.32
+map:Sydney_2_1024	path length:Unit: 434	543.0	rtaa imp:0.37254901960784315
+map:Sydney_2_1024	path length:Unit: 471	477.4	rtaa imp:0.29411764705882354
+map:Sydney_2_1024	path length:Unit: 850	465.8	rtaa imp:0.2549019607843137
+map:Sydney_2_1024	path length:Unit: 26	475.0	rtaa imp:0.21153846153846154
+map:Sydney_2_1024	path length:Unit: 110	644.99994	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 184	541.0	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 537	499.39996	rtaa imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 671	659.39996	rtaa imp:0.34615384615384615
+map:Sydney_2_1024	path length:Unit: 188	603.0	rtaa imp:0.18867924528301888
+map:Sydney_2_1024	path length:Unit: 315	644.2	rtaa imp:0.41509433962264153
+map:Sydney_2_1024	path length:Unit: 409	539.0	rtaa imp:0.22641509433962265
+map:Sydney_2_1024	path length:Unit: 745	499.4	rtaa imp:0.3018867924528302
+map:Sydney_2_1024	path length:Unit: 777	528.19995	rtaa imp:0.1320754716981132
+map:Sydney_2_1024	path length:Unit: 792	587.7999	rtaa imp:0.32075471698113206
+map:Sydney_2_1024	path length:Unit: 136	529.0	rtaa imp:0.24074074074074073
+map:Sydney_2_1024	path length:Unit: 476	498.19998	rtaa imp:0.3148148148148148
+map:Sydney_2_1024	path length:Unit: 580	686.2001	rtaa imp:0.2962962962962963
+map:Sydney_2_1024	path length:Unit: 705	564.99994	rtaa imp:0.2777777777777778
+map:Sydney_2_1024	path length:Unit: 438	586.20013	rtaa imp:0.12727272727272726
+map:Sydney_2_1024	path length:Unit: 664	512.0	rtaa imp:0.21818181818181817
+map:Sydney_2_1024	path length:Unit: 832	520.19995	rtaa imp:0.23636363636363636
+map:Sydney_2_1024	path length:Unit: 342	540.19995	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 992	539.4	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 56	622.6	rtaa imp:0.17543859649122806
+map:Sydney_2_1024	path length:Unit: 156	733.39996	rtaa imp:0.3684210526315789
+map:Sydney_2_1024	path length:Unit: 344	583.0	rtaa imp:0.22807017543859648
+map:Sydney_2_1024	path length:Unit: 505	612.2	rtaa imp:0.24561403508771928
+map:Sydney_2_1024	path length:Unit: 541	527.0	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 565	644.0003	rtaa imp:0.24561403508771928
+map:Sydney_2_1024	path length:Unit: 129	700.99994	rtaa imp:0.1206896551724138
+map:Sydney_2_1024	path length:Unit: 442	607.39996	rtaa imp:0.20689655172413793
+map:Sydney_2_1024	path length:Unit: 507	585.0	rtaa imp:0.3448275862068966
+map:Sydney_2_1024	path length:Unit: 652	586.19995	rtaa imp:0.3620689655172414
+map:Sydney_2_1024	path length:Unit: 4	746.99994	rtaa imp:0.5932203389830508
+map:Sydney_2_1024	path length:Unit: 92	587.0	rtaa imp:0.2711864406779661
+map:Sydney_2_1024	path length:Unit: 552	639.4	rtaa imp:0.3220338983050847
+map:Sydney_2_1024	path length:Unit: 73	598.19995	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 85	570.2	rtaa imp:0.2786885245901639
+map:Sydney_2_1024	path length:Unit: 125	751.7999	rtaa imp:0.32786885245901637
+map:Sydney_2_1024	path length:Unit: 130	778.19995	rtaa imp:0.3709677419354839
+map:Sydney_2_1024	path length:Unit: 174	589.4	rtaa imp:0.3709677419354839
+map:Sydney_2_1024	path length:Unit: 203	656.8	rtaa imp:0.1935483870967742
+map:Sydney_2_1024	path length:Unit: 251	705.80005	rtaa imp:0.22580645161290322
+map:Sydney_2_1024	path length:Unit: 685	641.0	rtaa imp:0.24193548387096775
+map:Sydney_2_1024	path length:Unit: 697	784.19995	rtaa imp:0.3548387096774194
+map:Sydney_2_1024	path length:Unit: 862	731.4	rtaa imp:0.3387096774193548
+map:Sydney_2_1024	path length:Unit: 871	669.0	rtaa imp:0.3387096774193548
+map:Sydney_2_1024	path length:Unit: 207	596.2	rtaa imp:0.25396825396825395
+map:Sydney_2_1024	path length:Unit: 292	587.4	rtaa imp:0.2698412698412698
+map:Sydney_2_1024	path length:Unit: 355	594.60004	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 402	587.0	rtaa imp:0.2698412698412698
+map:Sydney_2_1024	path length:Unit: 579	631.0	rtaa imp:0.375
+map:Sydney_2_1024	path length:Unit: 279	754.6	rtaa imp:0.2923076923076923
+map:Sydney_2_1024	path length:Unit: 411	717.2	rtaa imp:0.18461538461538463
+map:Sydney_2_1024	path length:Unit: 560	670.99994	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 133	795.3999	rtaa imp:0.22727272727272727
+map:Sydney_2_1024	path length:Unit: 286	737.0	rtaa imp:0.3484848484848485
+map:Sydney_2_1024	path length:Unit: 333	642.19995	rtaa imp:0.3484848484848485
+map:Sydney_2_1024	path length:Unit: 483	840.99994	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 573	725.0	rtaa imp:0.24242424242424243
+map:Sydney_2_1024	path length:Unit: 638	627.0	rtaa imp:0.2835820895522388
+map:Sydney_2_1024	path length:Unit: 843	810.5999	rtaa imp:0.2537313432835821
+map:Sydney_2_1024	path length:Unit: 808	683.4	rtaa imp:0.27941176470588236
+map:Sydney_2_1024	path length:Unit: 873	718.99994	rtaa imp:0.16176470588235295
+map:Sydney_2_1024	path length:Unit: 885	833.1998	rtaa imp:0.3088235294117647
+map:Sydney_2_1024	path length:Unit: 116	811.4	rtaa imp:0.2608695652173913
+map:Sydney_2_1024	path length:Unit: 575	819.4	rtaa imp:0.36231884057971014
+map:Sydney_2_1024	path length:Unit: 720	850.1999	rtaa imp:0.34782608695652173
+map:Sydney_2_1024	path length:Unit: 768	885.7999	rtaa imp:0.2753623188405797
+map:Sydney_2_1024	path length:Unit: 6	832.99994	rtaa imp:0.2571428571428571
+map:Sydney_2_1024	path length:Unit: 34	721.0	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 209	824.6	rtaa imp:0.3142857142857143
+map:Sydney_2_1024	path length:Unit: 232	749.4	rtaa imp:0.2571428571428571
+map:Sydney_2_1024	path length:Unit: 233	819.4001	rtaa imp:0.28169014084507044
+map:Sydney_2_1024	path length:Unit: 687	830.6	rtaa imp:0.39436619718309857
+map:Sydney_2_1024	path length:Unit: 902	699.8	rtaa imp:0.352112676056338
+map:Sydney_2_1024	path length:Unit: 957	777.8	rtaa imp:0.22535211267605634
+map:Sydney_2_1024	path length:Unit: 733	923.8	rtaa imp:0.3055555555555556
+map:Sydney_2_1024	path length:Unit: 275	779.0	rtaa imp:0.3150684931506849
+map:Sydney_2_1024	path length:Unit: 354	882.99994	rtaa imp:0.2602739726027397
+map:Sydney_2_1024	path length:Unit: 826	823.8	rtaa imp:0.2054794520547945
+map:Sydney_2_1024	path length:Unit: 973	824.2	rtaa imp:0.2602739726027397
+map:Sydney_2_1024	path length:Unit: 358	850.0	rtaa imp:0.14666666666666667
+map:Sydney_2_1024	path length:Unit: 821	882.19995	rtaa imp:0.22666666666666666
+map:Sydney_2_1024	path length:Unit: 446	737.0	rtaa imp:0.3157894736842105
+map:Sydney_2_1024	path length:Unit: 854	909.0	rtaa imp:0.21052631578947367
+map:Sydney_2_1024	path length:Unit: 39	922.99994	rtaa imp:0.24675324675324675
+map:Sydney_2_1024	path length:Unit: 180	891.4	rtaa imp:0.22077922077922077
+map:Sydney_2_1024	path length:Unit: 345	886.2	rtaa imp:0.2987012987012987
+map:Sydney_2_1024	path length:Unit: 362	871.00006	rtaa imp:0.3116883116883117
+map:Sydney_2_1024	path length:Unit: 486	869.3998	rtaa imp:0.38961038961038963
+map:Sydney_2_1024	path length:Unit: 597	775.00006	rtaa imp:0.2987012987012987
+map:Sydney_2_1024	path length:Unit: 675	798.19995	rtaa imp:0.2987012987012987
+map:Sydney_2_1024	path length:Unit: 726	777.0001	rtaa imp:0.24675324675324675
+map:Sydney_2_1024	path length:Unit: 18	853.0	rtaa imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 149	844.6	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 424	737.4	rtaa imp:0.28205128205128205
+map:Sydney_2_1024	path length:Unit: 463	750.5999	rtaa imp:0.28205128205128205
+map:Sydney_2_1024	path length:Unit: 649	1028.6	rtaa imp:0.358974358974359
+map:Sydney_2_1024	path length:Unit: 840	735.0	rtaa imp:0.28205128205128205
+map:Sydney_2_1024	path length:Unit: 998	925.8001	rtaa imp:0.2564102564102564
+map:Sydney_2_1024	path length:Unit: 779	781.0	rtaa imp:0.2911392405063291
+map:Sydney_2_1024	path length:Unit: 927	1015.6001	rtaa imp:0.2911392405063291
+map:Sydney_2_1024	path length:Unit: 347	786.2	rtaa imp:0.225
+map:Sydney_2_1024	path length:Unit: 490	972.99994	rtaa imp:0.2875
+map:Sydney_2_1024	path length:Unit: 557	819.4	rtaa imp:0.275
+map:Sydney_2_1024	path length:Unit: 594	833.0	rtaa imp:0.3625
+map:Sydney_2_1024	path length:Unit: 645	813.39996	rtaa imp:0.325
+map:Sydney_2_1024	path length:Unit: 278	776.2	rtaa imp:0.24691358024691357
+map:Sydney_2_1024	path length:Unit: 891	922.2	rtaa imp:0.32098765432098764
+map:Sydney_2_1024	path length:Unit: 900	779.4	rtaa imp:0.2716049382716049
+map:Sydney_2_1024	path length:Unit: 930	990.6001	rtaa imp:0.2345679012345679
+map:Sydney_2_1024	path length:Unit: 135	897.7999	rtaa imp:0.32926829268292684
+map:Sydney_2_1024	path length:Unit: 701	880.6	rtaa imp:0.3170731707317073
+map:Sydney_2_1024	path length:Unit: 876	832.60004	rtaa imp:0.2804878048780488
+map:Sydney_2_1024	path length:Unit: 943	903.0	rtaa imp:0.24390243902439024
+map:Sydney_2_1024	path length:Unit: 440	849.19995	rtaa imp:0.25301204819277107
+map:Sydney_2_1024	path length:Unit: 748	797.8	rtaa imp:0.30120481927710846
+map:Sydney_2_1024	path length:Unit: 58	1020.99994	rtaa imp:0.2976190476190476
+map:Sydney_2_1024	path length:Unit: 273	968.19995	rtaa imp:0.2261904761904762
+map:Sydney_2_1024	path length:Unit: 549	798.2	rtaa imp:0.23809523809523808
+map:Sydney_2_1024	path length:Unit: 148	990.99994	rtaa imp:0.24705882352941178
+map:Sydney_2_1024	path length:Unit: 403	831.0	rtaa imp:0.24705882352941178
+map:Sydney_2_1024	path length:Unit: 301	1038.5999	rtaa imp:0.2441860465116279
+map:Sydney_2_1024	path length:Unit: 386	1072.9999	rtaa imp:0.27906976744186046
+map:Sydney_2_1024	path length:Unit: 534	975.60004	rtaa imp:0.2558139534883721
+map:Sydney_2_1024	path length:Unit: 262	1009.8	rtaa imp:0.28735632183908044
+map:Sydney_2_1024	path length:Unit: 294	858.60004	rtaa imp:0.2988505747126437
+map:Sydney_2_1024	path length:Unit: 547	1108.0001	rtaa imp:1.3563218390804597
+map:Sydney_2_1024	path length:Unit: 250	937.8	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 329	1087.3999	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 955	956.19995	rtaa imp:0.3409090909090909
+map:Sydney_2_1024	path length:Unit: 97	972.80005	rtaa imp:0.20224719101123595
+map:Sydney_2_1024	path length:Unit: 300	978.6	rtaa imp:0.3595505617977528
+map:Sydney_2_1024	path length:Unit: 357	920.2	rtaa imp:0.30337078651685395
+map:Sydney_2_1024	path length:Unit: 589	996.59985	rtaa imp:0.20224719101123595
+map:Sydney_2_1024	path length:Unit: 679	1112.9998	rtaa imp:0.3595505617977528
+map:Sydney_2_1024	path length:Unit: 84	1168.9999	rtaa imp:0.3111111111111111
+map:Sydney_2_1024	path length:Unit: 368	1021.0002	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 870	1036.6001	rtaa imp:0.32222222222222224
+map:Sydney_2_1024	path length:Unit: 162	1176.9999	rtaa imp:0.40217391304347827
+map:Sydney_2_1024	path length:Unit: 472	991.0	rtaa imp:0.22580645161290322
+map:Sydney_2_1024	path length:Unit: 577	1193.3999	rtaa imp:0.3655913978494624
+map:Sydney_2_1024	path length:Unit: 906	1130.9993	rtaa imp:0.3118279569892473
+map:Sydney_2_1024	path length:Unit: 270	1067.0	rtaa imp:0.19148936170212766
+map:Sydney_2_1024	path length:Unit: 521	965.79987	rtaa imp:0.1702127659574468
+map:Sydney_2_1024	path length:Unit: 590	1092.4001	rtaa imp:0.2765957446808511
+map:Sydney_2_1024	path length:Unit: 856	922.60004	rtaa imp:0.2765957446808511
+map:Sydney_2_1024	path length:Unit: 59	1039.0	rtaa imp:0.29473684210526313
+map:Sydney_2_1024	path length:Unit: 222	1207.5997	rtaa imp:1.568421052631579
+map:Sydney_2_1024	path length:Unit: 258	1065.3999	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 304	1065.0	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 361	1246.2	rtaa imp:0.2736842105263158
+map:Sydney_2_1024	path length:Unit: 1	974.19995	rtaa imp:0.041666666666666664
+map:Sydney_2_1024	path length:Unit: 497	1181.0	rtaa imp:0.34375
+map:Sydney_2_1024	path length:Unit: 629	1105.0	rtaa imp:0.2708333333333333
+map:Sydney_2_1024	path length:Unit: 727	982.6	rtaa imp:0.34375
+map:Sydney_2_1024	path length:Unit: 802	982.6	rtaa imp:0.28125
+map:Sydney_2_1024	path length:Unit: 958	1153.8	rtaa imp:0.3541666666666667
+map:Sydney_2_1024	path length:Unit: 206	913.8	rtaa imp:0.1958762886597938
+map:Sydney_2_1024	path length:Unit: 8	1174.6001	rtaa imp:0.3979591836734694
+map:Sydney_2_1024	path length:Unit: 147	1029.0	rtaa imp:0.336734693877551
+map:Sydney_2_1024	path length:Unit: 401	1208.5997	rtaa imp:0.4489795918367347
+map:Sydney_2_1024	path length:Unit: 449	1240.2	rtaa imp:1.0918367346938775
+map:Sydney_2_1024	path length:Unit: 728	962.9999	rtaa imp:0.16326530612244897
+map:Sydney_2_1024	path length:Unit: 755	1020.6	rtaa imp:0.2653061224489796
+map:Sydney_2_1024	path length:Unit: 113	1087.0	rtaa imp:0.23232323232323232
+map:Sydney_2_1024	path length:Unit: 196	1126.6	rtaa imp:0.3434343434343434
+map:Sydney_2_1024	path length:Unit: 272	1017.00006	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 567	1266.4004	rtaa imp:0.30303030303030304
+map:Sydney_2_1024	path length:Unit: 662	1142.2	rtaa imp:0.3939393939393939
+map:Sydney_2_1024	path length:Unit: 743	1151.6	rtaa imp:0.21212121212121213
+map:Sydney_2_1024	path length:Unit: 185	1260.6	rtaa imp:0.32
+map:Sydney_2_1024	path length:Unit: 214	1226.1998	rtaa imp:0.38
+map:Sydney_2_1024	path length:Unit: 886	1310.199	rtaa imp:0.31
+map:Sydney_2_1024	path length:Unit: 949	1087.8004	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 150	978.9999	rtaa imp:0.297029702970297
+map:Sydney_2_1024	path length:Unit: 328	1113.4001	rtaa imp:0.2376237623762376
+map:Sydney_2_1024	path length:Unit: 340	1110.6001	rtaa imp:0.26732673267326734
+map:Sydney_2_1024	path length:Unit: 863	1223.3998	rtaa imp:0.2376237623762376
+map:Sydney_2_1024	path length:Unit: 30	1017.0	rtaa imp:0.27450980392156865
+map:Sydney_2_1024	path length:Unit: 459	1161.3995	rtaa imp:0.3235294117647059
+map:Sydney_2_1024	path length:Unit: 464	1255.8	rtaa imp:0.4117647058823529
+map:Sydney_2_1024	path length:Unit: 736	1132.5999	rtaa imp:0.3137254901960784
+map:Sydney_2_1024	path length:Unit: 754	1124.2002	rtaa imp:0.24509803921568626
+map:Sydney_2_1024	path length:Unit: 364	987.4	rtaa imp:0.3106796116504854
+map:Sydney_2_1024	path length:Unit: 378	1234.1998	rtaa imp:0.3106796116504854
+map:Sydney_2_1024	path length:Unit: 422	1333.3994	rtaa imp:0.3557692307692308
+map:Sydney_2_1024	path length:Unit: 651	1351.3994	rtaa imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 786	1010.6	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 17	1142.0004	rtaa imp:0.21904761904761905
+map:Sydney_2_1024	path length:Unit: 76	1168.2	rtaa imp:0.21904761904761905
+map:Sydney_2_1024	path length:Unit: 389	1170.9999	rtaa imp:0.29523809523809524
+map:Sydney_2_1024	path length:Unit: 462	1311.7999	rtaa imp:0.2761904761904762
+map:Sydney_2_1024	path length:Unit: 643	1064.0	rtaa imp:0.2761904761904762
+map:Sydney_2_1024	path length:Unit: 648	1078.6	rtaa imp:0.19047619047619047
+map:Sydney_2_1024	path length:Unit: 75	1172.6	rtaa imp:0.2830188679245283
+map:Sydney_2_1024	path length:Unit: 178	1232.2	rtaa imp:0.3018867924528302
+map:Sydney_2_1024	path length:Unit: 858	1083.0	rtaa imp:0.2641509433962264
+map:Sydney_2_1024	path length:Unit: 44	1095.0	rtaa imp:0.27102803738317754
+map:Sydney_2_1024	path length:Unit: 439	1144.5996	rtaa imp:0.24299065420560748
+map:Sydney_2_1024	path length:Unit: 546	1195.3999	rtaa imp:0.308411214953271
+map:Sydney_2_1024	path length:Unit: 717	1273.7999	rtaa imp:0.29906542056074764
+map:Sydney_2_1024	path length:Unit: 322	1091.7999	rtaa imp:0.28703703703703703
+map:Sydney_2_1024	path length:Unit: 823	1242.9999	rtaa imp:0.2777777777777778
+map:Sydney_2_1024	path length:Unit: 952	1129.4003	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 161	1108.6	rtaa imp:0.25688073394495414
+map:Sydney_2_1024	path length:Unit: 350	1356.9999	rtaa imp:0.42201834862385323
+map:Sydney_2_1024	path length:Unit: 564	1206.6	rtaa imp:0.25688073394495414
+map:Sydney_2_1024	path length:Unit: 605	1242.5999	rtaa imp:0.23853211009174313
+map:Sydney_2_1024	path length:Unit: 759	1361.0	rtaa imp:0.27522935779816515
+map:Sydney_2_1024	path length:Unit: 923	1293.0	rtaa imp:0.30275229357798167
+map:Sydney_2_1024	path length:Unit: 504	1147.8	rtaa imp:0.2545454545454545
+map:Sydney_2_1024	path length:Unit: 67	1266.9998	rtaa imp:0.3153153153153153
+map:Sydney_2_1024	path length:Unit: 274	1186.2001	rtaa imp:0.21621621621621623
+map:Sydney_2_1024	path length:Unit: 455	1315.0	rtaa imp:0.2072072072072072
+map:Sydney_2_1024	path length:Unit: 614	1065.4	rtaa imp:0.24324324324324326
+map:Sydney_2_1024	path length:Unit: 762	1387.0	rtaa imp:0.27927927927927926
+map:Sydney_2_1024	path length:Unit: 911	1075.8	rtaa imp:0.2882882882882883
+map:Sydney_2_1024	path length:Unit: 934	1418.2	rtaa imp:0.45045045045045046
+map:Sydney_2_1024	path length:Unit: 298	1129.0	rtaa imp:0.23214285714285715
+map:Sydney_2_1024	path length:Unit: 349	1226.2003	rtaa imp:0.26785714285714285
+map:Sydney_2_1024	path length:Unit: 640	1287.4	rtaa imp:0.34513274336283184
+map:Sydney_2_1024	path length:Unit: 828	1199.2	rtaa imp:0.23893805309734514
+map:Sydney_2_1024	path length:Unit: 919	1117.8	rtaa imp:0.23893805309734514
+map:Sydney_2_1024	path length:Unit: 213	1242.2	rtaa imp:0.2894736842105263
+map:Sydney_2_1024	path length:Unit: 224	1398.5999	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 398	1346.5997	rtaa imp:0.35964912280701755
+map:Sydney_2_1024	path length:Unit: 938	1139.4	rtaa imp:0.3684210526315789
+map:Sydney_2_1024	path length:Unit: 20	1105.0	rtaa imp:0.5739130434782609
+map:Sydney_2_1024	path length:Unit: 114	1203.0	rtaa imp:0.26956521739130435
+map:Sydney_2_1024	path length:Unit: 197	1164.2004	rtaa imp:0.24347826086956523
+map:Sydney_2_1024	path length:Unit: 226	1314.0004	rtaa imp:0.1826086956521739
+map:Sydney_2_1024	path length:Unit: 548	792.20013	rtaa imp:0.20869565217391303
+map:Sydney_2_1024	path length:Unit: 939	1135.8	rtaa imp:0.2608695652173913
+map:Sydney_2_1024	path length:Unit: 80	1353.7999	rtaa imp:0.19827586206896552
+map:Sydney_2_1024	path length:Unit: 582	1376.2	rtaa imp:0.29310344827586204
+map:Sydney_2_1024	path length:Unit: 798	1372.9998	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 877	1122.5999	rtaa imp:0.27350427350427353
+map:Sydney_2_1024	path length:Unit: 231	1194.3999	rtaa imp:0.3050847457627119
+map:Sydney_2_1024	path length:Unit: 558	1522.2001	rtaa imp:0.3305084745762712
+map:Sydney_2_1024	path length:Unit: 967	1260.9999	rtaa imp:0.8898305084745762
+map:Sydney_2_1024	path length:Unit: 515	1331.8	rtaa imp:0.24369747899159663
+map:Sydney_2_1024	path length:Unit: 778	1484.9999	rtaa imp:0.35294117647058826
+map:Sydney_2_1024	path length:Unit: 578	1281.3999	rtaa imp:0.225
+map:Sydney_2_1024	path length:Unit: 16	1527.0	rtaa imp:0.34710743801652894
+map:Sydney_2_1024	path length:Unit: 628	1355.0	rtaa imp:0.3305785123966942
+map:Sydney_2_1024	path length:Unit: 644	1420.5997	rtaa imp:0.23140495867768596
+map:Sydney_2_1024	path length:Unit: 656	1303.7999	rtaa imp:0.32231404958677684
+map:Sydney_2_1024	path length:Unit: 892	1458.9995	rtaa imp:0.34710743801652894
+map:Sydney_2_1024	path length:Unit: 948	1179.4	rtaa imp:0.3305785123966942
+map:Sydney_2_1024	path length:Unit: 969	1288.5999	rtaa imp:0.3305785123966942
+map:Sydney_2_1024	path length:Unit: 107	1289.8	rtaa imp:0.3524590163934426
+map:Sydney_2_1024	path length:Unit: 242	1548.6	rtaa imp:0.3114754098360656
+map:Sydney_2_1024	path length:Unit: 576	1487.8	rtaa imp:0.26229508196721313
+map:Sydney_2_1024	path length:Unit: 581	1161.5999	rtaa imp:0.3114754098360656
+map:Sydney_2_1024	path length:Unit: 741	1529.4	rtaa imp:0.36885245901639346
+map:Sydney_2_1024	path length:	suc_rate:	0.382
+RTAA
+map:Sydney_2_1024	path length:Unit: 355	7.2	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 121	12.4	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 215	19.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 346	34.0	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 498	37.2	rtaa imp:0.125
+map:Sydney_2_1024	path length:Unit: 471	66.2	rtaa imp:0.5
+map:Sydney_2_1024	path length:Unit: 77	73.4	rtaa imp:0.09090909090909091
+map:Sydney_2_1024	path length:Unit: 119	79.4	rtaa imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 446	76.2	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 242	103.0	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 13	124.99999	rtaa imp:0.35714285714285715
+map:Sydney_2_1024	path length:Unit: 141	109.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 413	118.200005	rtaa imp:0.4
+map:Sydney_2_1024	path length:Unit: 289	116.600006	rtaa imp:0.4375
+map:Sydney_2_1024	path length:Unit: 408	129.4	rtaa imp:0.375
+map:Sydney_2_1024	path length:Unit: 487	115.4	rtaa imp:0.5
+map:Sydney_2_1024	path length:Unit: 17	139.0	rtaa imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 39	151.0	rtaa imp:1.0526315789473684
+map:Sydney_2_1024	path length:Unit: 51	146.2	rtaa imp:0.10526315789473684
+map:Sydney_2_1024	path length:Unit: 219	155.4	rtaa imp:0.3
+map:Sydney_2_1024	path length:Unit: 481	155.4	rtaa imp:0.1
+map:Sydney_2_1024	path length:Unit: 479	167.4	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 98	193.0	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 167	186.2	rtaa imp:0.13636363636363635
+map:Sydney_2_1024	path length:Unit: 240	176.2	rtaa imp:0.22727272727272727
+map:Sydney_2_1024	path length:Unit: 418	175.4	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 237	254.99997	rtaa imp:0.34782608695652173
+map:Sydney_2_1024	path length:Unit: 325	199.4	rtaa imp:0.30434782608695654
+map:Sydney_2_1024	path length:Unit: 291	196.2	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 2	211.0	rtaa imp:0.32
+map:Sydney_2_1024	path length:Unit: 93	227.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 84	311.0	rtaa imp:0.2962962962962963
+map:Sydney_2_1024	path length:Unit: 298	248.79999	rtaa imp:0.07407407407407407
+map:Sydney_2_1024	path length:Unit: 176	261.0	rtaa imp:0.17857142857142858
+map:Sydney_2_1024	path length:Unit: 464	236.2	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 29	249.0	rtaa imp:0.4827586206896552
+map:Sydney_2_1024	path length:Unit: 140	299.0	rtaa imp:0.2413793103448276
+map:Sydney_2_1024	path length:Unit: 425	315.4	rtaa imp:0.1724137931034483
+map:Sydney_2_1024	path length:Unit: 461	314.99997	rtaa imp:0.13793103448275862
+map:Sydney_2_1024	path length:Unit: 153	267.4	rtaa imp:0.25806451612903225
+map:Sydney_2_1024	path length:Unit: 412	269.0	rtaa imp:0.1935483870967742
+map:Sydney_2_1024	path length:Unit: 114	283.4	rtaa imp:0.21875
+map:Sydney_2_1024	path length:Unit: 339	361.6	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 332	370.99997	rtaa imp:0.42424242424242425
+map:Sydney_2_1024	path length:Unit: 454	311.0	rtaa imp:0.15151515151515152
+map:Sydney_2_1024	path length:Unit: 482	339.0	rtaa imp:0.24242424242424243
+map:Sydney_2_1024	path length:Unit: 429	301.0	rtaa imp:0.2647058823529412
+map:Sydney_2_1024	path length:Unit: 7	328.2	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 131	385.4	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 115	326.2	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 142	323.4	rtaa imp:0.19444444444444445
+map:Sydney_2_1024	path length:Unit: 323	371.60013	rtaa imp:0.3055555555555556
+map:Sydney_2_1024	path length:Unit: 255	375.0	rtaa imp:0.2972972972972973
+map:Sydney_2_1024	path length:Unit: 328	438.99997	rtaa imp:0.2702702702702703
+map:Sydney_2_1024	path length:Unit: 423	384.19995	rtaa imp:0.16216216216216217
+map:Sydney_2_1024	path length:Unit: 30	339.0	rtaa imp:0.10526315789473684
+map:Sydney_2_1024	path length:Unit: 164	363.4	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 184	375.0	rtaa imp:0.15384615384615385
+map:Sydney_2_1024	path length:Unit: 183	356.59998	rtaa imp:0.3
+map:Sydney_2_1024	path length:Unit: 317	492.99997	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 56	399.0	rtaa imp:0.2682926829268293
+map:Sydney_2_1024	path length:Unit: 59	365.4	rtaa imp:0.1951219512195122
+map:Sydney_2_1024	path length:Unit: 145	458.99997	rtaa imp:0.21951219512195122
+map:Sydney_2_1024	path length:Unit: 293	367.0	rtaa imp:0.21951219512195122
+map:Sydney_2_1024	path length:Unit: 88	378.2	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 304	415.4	rtaa imp:0.2619047619047619
+map:Sydney_2_1024	path length:Unit: 350	476.59998	rtaa imp:0.23809523809523808
+map:Sydney_2_1024	path length:Unit: 475	520.2	rtaa imp:0.19047619047619047
+map:Sydney_2_1024	path length:Unit: 226	534.2	rtaa imp:0.32558139534883723
+map:Sydney_2_1024	path length:Unit: 236	411.0	rtaa imp:0.18604651162790697
+map:Sydney_2_1024	path length:Unit: 320	432.40005	rtaa imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 453	370.59998	rtaa imp:0.11363636363636363
+map:Sydney_2_1024	path length:Unit: 491	517.0	rtaa imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 256	470.59998	rtaa imp:0.24444444444444444
+map:Sydney_2_1024	path length:Unit: 470	546.6	rtaa imp:0.24444444444444444
+map:Sydney_2_1024	path length:Unit: 134	568.2	rtaa imp:0.34782608695652173
+map:Sydney_2_1024	path length:Unit: 76	590.99994	rtaa imp:1.7659574468085106
+map:Sydney_2_1024	path length:Unit: 174	475.39996	rtaa imp:0.2765957446808511
+map:Sydney_2_1024	path length:Unit: 187	506.59998	rtaa imp:0.3191489361702128
+map:Sydney_2_1024	path length:Unit: 207	450.2	rtaa imp:0.8541666666666666
+map:Sydney_2_1024	path length:Unit: 447	453.0	rtaa imp:0.1875
+map:Sydney_2_1024	path length:Unit: 457	487.0	rtaa imp:0.32653061224489793
+map:Sydney_2_1024	path length:Unit: 177	503.20007	rtaa imp:0.16
+map:Sydney_2_1024	path length:Unit: 217	582.6	rtaa imp:0.23529411764705882
+map:Sydney_2_1024	path length:Unit: 246	479.0	rtaa imp:0.28846153846153844
+map:Sydney_2_1024	path length:Unit: 278	603.8	rtaa imp:0.32075471698113206
+map:Sydney_2_1024	path length:Unit: 362	545.0	rtaa imp:0.23636363636363636
+map:Sydney_2_1024	path length:Unit: 370	538.6	rtaa imp:0.14545454545454545
+map:Sydney_2_1024	path length:Unit: 383	506.2	rtaa imp:0.2909090909090909
+map:Sydney_2_1024	path length:Unit: 209	600.60016	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 129	534.0	rtaa imp:0.15789473684210525
+map:Sydney_2_1024	path length:Unit: 371	589.79987	rtaa imp:0.2982456140350877
+map:Sydney_2_1024	path length:Unit: 165	657.0	rtaa imp:0.29310344827586204
+map:Sydney_2_1024	path length:Unit: 318	631.4001	rtaa imp:0.29310344827586204
+map:Sydney_2_1024	path length:Unit: 105	639.0	rtaa imp:0.3728813559322034
+map:Sydney_2_1024	path length:Unit: 199	556.9999	rtaa imp:0.2033898305084746
+map:Sydney_2_1024	path length:Unit: 420	633.0	rtaa imp:0.23728813559322035
+map:Sydney_2_1024	path length:Unit: 308	593.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 331	569.4	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 116	699.0	rtaa imp:0.29508196721311475
+map:Sydney_2_1024	path length:Unit: 366	690.39996	rtaa imp:0.19672131147540983
+map:Sydney_2_1024	path length:Unit: 194	607.0	rtaa imp:0.19047619047619047
+map:Sydney_2_1024	path length:Unit: 224	623.0	rtaa imp:0.30158730158730157
+map:Sydney_2_1024	path length:Unit: 341	786.60004	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 4	725.6001	rtaa imp:0.375
+map:Sydney_2_1024	path length:Unit: 466	703.39996	rtaa imp:0.265625
+map:Sydney_2_1024	path length:Unit: 158	609.4	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 160	735.0	rtaa imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 445	748.6002	rtaa imp:0.27692307692307694
+map:Sydney_2_1024	path length:Unit: 455	682.19995	rtaa imp:0.15151515151515152
+map:Sydney_2_1024	path length:Unit: 128	823.0	rtaa imp:0.2537313432835821
+map:Sydney_2_1024	path length:Unit: 143	826.6	rtaa imp:0.34328358208955223
+map:Sydney_2_1024	path length:Unit: 485	652.19995	rtaa imp:0.31343283582089554
+map:Sydney_2_1024	path length:Unit: 385	638.2	rtaa imp:0.29411764705882354
+map:Sydney_2_1024	path length:Unit: 113	663.0	rtaa imp:0.2028985507246377
+map:Sydney_2_1024	path length:Unit: 106	757.0	rtaa imp:0.22857142857142856
+map:Sydney_2_1024	path length:Unit: 136	646.39996	rtaa imp:0.2571428571428571
+map:Sydney_2_1024	path length:Unit: 267	766.20013	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 321	779.40015	rtaa imp:0.24285714285714285
+map:Sydney_2_1024	path length:Unit: 395	683.80005	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 33	883.39996	rtaa imp:0.22535211267605634
+map:Sydney_2_1024	path length:Unit: 305	894.99994	rtaa imp:0.3287671232876712
+map:Sydney_2_1024	path length:Unit: 376	893.8	rtaa imp:0.2972972972972973
+map:Sydney_2_1024	path length:Unit: 58	866.6	rtaa imp:0.22666666666666666
+map:Sydney_2_1024	path length:Unit: 372	884.5999	rtaa imp:0.32
+map:Sydney_2_1024	path length:Unit: 179	777.0	rtaa imp:0.27631578947368424
+map:Sydney_2_1024	path length:Unit: 235	913.39996	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 334	729.0	rtaa imp:0.19480519480519481
+map:Sydney_2_1024	path length:Unit: 415	850.00024	rtaa imp:0.20512820512820512
+map:Sydney_2_1024	path length:Unit: 99	903.40015	rtaa imp:0.21518987341772153
+map:Sydney_2_1024	path length:Unit: 180	757.79987	rtaa imp:0.379746835443038
+map:Sydney_2_1024	path length:Unit: 276	987.5999	rtaa imp:0.2911392405063291
+map:Sydney_2_1024	path length:Unit: 46	805.0	rtaa imp:0.1625
+map:Sydney_2_1024	path length:Unit: 150	813.0	rtaa imp:0.275
+map:Sydney_2_1024	path length:Unit: 401	941.8	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 9	853.19995	rtaa imp:0.2962962962962963
+map:Sydney_2_1024	path length:Unit: 387	783.0	rtaa imp:0.25925925925925924
+map:Sydney_2_1024	path length:Unit: 469	793.0	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 225	1033.3999	rtaa imp:0.2804878048780488
+map:Sydney_2_1024	path length:Unit: 424	831.0	rtaa imp:0.30120481927710846
+map:Sydney_2_1024	path length:Unit: 95	968.99994	rtaa imp:0.2976190476190476
+map:Sydney_2_1024	path length:Unit: 404	921.0	rtaa imp:0.27380952380952384
+map:Sydney_2_1024	path length:Unit: 490	824.2001	rtaa imp:0.30952380952380953
+map:Sydney_2_1024	path length:Unit: 268	816.2	rtaa imp:0.3411764705882353
+map:Sydney_2_1024	path length:Unit: 92	893.0	rtaa imp:0.2441860465116279
+map:Sydney_2_1024	path length:Unit: 311	879.6001	rtaa imp:0.2558139534883721
+map:Sydney_2_1024	path length:Unit: 460	805.3999	rtaa imp:0.2558139534883721
+map:Sydney_2_1024	path length:Unit: 290	984.4	rtaa imp:0.20689655172413793
+map:Sydney_2_1024	path length:Unit: 472	975.8	rtaa imp:0.25287356321839083
+map:Sydney_2_1024	path length:Unit: 326	836.2	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 358	853.0	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 85	1093.0	rtaa imp:0.28888888888888886
+map:Sydney_2_1024	path length:Unit: 71	915.0	rtaa imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 201	881.0	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 156	1224.9999	rtaa imp:0.30434782608695654
+map:Sydney_2_1024	path length:Unit: 409	1107.0002	rtaa imp:0.21739130434782608
+map:Sydney_2_1024	path length:Unit: 178	947.8005	rtaa imp:0.1827956989247312
+map:Sydney_2_1024	path length:Unit: 456	1132.2	rtaa imp:0.3763440860215054
+map:Sydney_2_1024	path length:Unit: 104	974.19995	rtaa imp:0.23404255319148937
+map:Sydney_2_1024	path length:Unit: 0	905.0	rtaa imp:0.07368421052631578
+map:Sydney_2_1024	path length:Unit: 213	1038.8003	rtaa imp:0.25263157894736843
+map:Sydney_2_1024	path length:Unit: 349	996.19995	rtaa imp:0.20833333333333334
+map:Sydney_2_1024	path length:Unit: 19	1079.0	rtaa imp:0.44329896907216493
+map:Sydney_2_1024	path length:Unit: 223	1294.6	rtaa imp:0.24489795918367346
+map:Sydney_2_1024	path length:Unit: 486	960.6	rtaa imp:0.2653061224489796
+map:Sydney_2_1024	path length:Unit: 36	1162.2	rtaa imp:0.29
+map:Sydney_2_1024	path length:Unit: 72	1199.0002	rtaa imp:0.18811881188118812
+map:Sydney_2_1024	path length:Unit: 137	1071.0	rtaa imp:0.21568627450980393
+map:Sydney_2_1024	path length:Unit: 220	1093.0	rtaa imp:0.29411764705882354
+map:Sydney_2_1024	path length:Unit: 301	1313.0	rtaa imp:0.28431372549019607
+map:Sydney_2_1024	path length:Unit: 263	988.2	rtaa imp:0.2815533980582524
+map:Sydney_2_1024	path length:Unit: 393	1181.3999	rtaa imp:0.20192307692307693
+map:Sydney_2_1024	path length:Unit: 422	1181.8	rtaa imp:0.22115384615384615
+map:Sydney_2_1024	path length:Unit: 459	1021.4	rtaa imp:0.19230769230769232
+map:Sydney_2_1024	path length:Unit: 90	1322.9999	rtaa imp:0.34285714285714286
+map:Sydney_2_1024	path length:Unit: 120	1016.2	rtaa imp:0.22857142857142856
+map:Sydney_2_1024	path length:Unit: 210	1259.0	rtaa imp:0.2571428571428571
+map:Sydney_2_1024	path length:Unit: 436	1051.0	rtaa imp:0.8
+map:Sydney_2_1024	path length:Unit: 3	1109.0	rtaa imp:0.46226415094339623
+map:Sydney_2_1024	path length:Unit: 41	1319.0	rtaa imp:0.27102803738317754
+map:Sydney_2_1024	path length:Unit: 198	1120.1997	rtaa imp:0.2336448598130841
+map:Sydney_2_1024	path length:Unit: 204	1231.0	rtaa imp:0.205607476635514
+map:Sydney_2_1024	path length:Unit: 279	1259.0	rtaa imp:0.27102803738317754
+map:Sydney_2_1024	path length:Unit: 297	1187.1997	rtaa imp:0.24299065420560748
+map:Sydney_2_1024	path length:Unit: 440	1160.2	rtaa imp:0.34579439252336447
+map:Sydney_2_1024	path length:Unit: 6	1117.8	rtaa imp:0.2777777777777778
+map:Sydney_2_1024	path length:Unit: 89	1177.0	rtaa imp:0.24074074074074073
+map:Sydney_2_1024	path length:Unit: 162	1035.2	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 434	1077.0	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 23	1223.6001	rtaa imp:0.22935779816513763
+map:Sydney_2_1024	path length:Unit: 380	1365.3993	rtaa imp:0.3211009174311927
+map:Sydney_2_1024	path length:Unit: 101	1422.9999	rtaa imp:0.32432432432432434
+map:Sydney_2_1024	path length:Unit: 397	1223.0	rtaa imp:0.23008849557522124
+map:Sydney_2_1024	path length:Unit: 463	1227.0	rtaa imp:0.34513274336283184
+map:Sydney_2_1024	path length:Unit: 499	1261.8003	rtaa imp:0.26548672566371684
+map:Sydney_2_1024	path length:Unit: 439	1174.9999	rtaa imp:0.21929824561403508
+map:Sydney_2_1024	path length:Unit: 273	1346.9999	rtaa imp:0.30434782608695654
+map:Sydney_2_1024	path length:Unit: 414	1182.6	rtaa imp:0.3826086956521739
+map:Sydney_2_1024	path length:Unit: 14	1211.4	rtaa imp:0.21551724137931033
+map:Sydney_2_1024	path length:Unit: 185	1117.4	rtaa imp:0.6896551724137931
+map:Sydney_2_1024	path length:Unit: 79	1526.9998	rtaa imp:0.38461538461538464
+map:Sydney_2_1024	path length:Unit: 154	1483.0	rtaa imp:0.37606837606837606
+map:Sydney_2_1024	path length:Unit: 449	1224.2004	rtaa imp:0.2564102564102564
+map:Sydney_2_1024	path length:Unit: 245	1329.3999	rtaa imp:0.2833333333333333
+map:Sydney_2_1024	path length:Unit: 386	1208.4	rtaa imp:0.2601626016260163
+map:Sydney_2_1024	path length:Unit: 5	1289.0	rtaa imp:0.18548387096774194
+map:Sydney_2_1024	path length:Unit: 296	1521.8	rtaa imp:0.3225806451612903
+map:Sydney_2_1024	path length:Unit: 188	1331.8002	rtaa imp:0.24
+map:Sydney_2_1024	path length:Unit: 192	1293.0	rtaa imp:0.3253968253968254
+map:Sydney_2_1024	path length:Unit: 216	1311.001	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 342	1281.0	rtaa imp:0.2619047619047619
+map:Sydney_2_1024	path length:Unit: 315	1540.5999	rtaa imp:0.30708661417322836
+map:Sydney_2_1024	path length:Unit: 195	1284.3999	rtaa imp:0.37209302325581395
+map:Sydney_2_1024	path length:Unit: 391	1439.0	rtaa imp:0.29457364341085274
+map:Sydney_2_1024	path length:Unit: 52	1279.3999	rtaa imp:0.3
+map:Sydney_2_1024	path length:Unit: 130	1419.0	rtaa imp:0.3230769230769231
+map:Sydney_2_1024	path length:Unit: 428	1433.7999	rtaa imp:0.16153846153846155
+map:Sydney_2_1024	path length:Unit: 452	1518.6	rtaa imp:0.3153846153846154
+map:Sydney_2_1024	path length:Unit: 42	1317.0	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 284	1461.0001	rtaa imp:0.26865671641791045
+map:Sydney_2_1024	path length:Unit: 345	1512.2	rtaa imp:0.2835820895522388
+map:Sydney_2_1024	path length:Unit: 28	1574.2001	rtaa imp:0.27205882352941174
+map:Sydney_2_1024	path length:Unit: 324	1596.3998	rtaa imp:0.2463768115942029
+map:Sydney_2_1024	path length:Unit: 359	1722.1998	rtaa imp:0.38848920863309355
+map:Sydney_2_1024	path length:Unit: 484	1479.8008	rtaa imp:0.23741007194244604
+map:Sydney_2_1024	path length:Unit: 108	1775.8003	rtaa imp:0.3194444444444444
+map:Sydney_2_1024	path length:Unit: 124	1517.0	rtaa imp:0.5833333333333334
+map:Sydney_2_1024	path length:Unit: 389	1639.7998	rtaa imp:0.3129251700680272
+map:Sydney_2_1024	path length:Unit: 442	1473.6	rtaa imp:0.1891891891891892
+map:Sydney_2_1024	path length:Unit: 157	1766.2	rtaa imp:0.3288590604026846
+map:Sydney_2_1024	path length:Unit: 265	1439.4001	rtaa imp:0.29333333333333333
+map:Sydney_2_1024	path length:Unit: 122	1929.5999	rtaa imp:0.31125827814569534
+map:Sydney_2_1024	path length:Unit: 110	1616.6001	rtaa imp:0.3223684210526316
+map:Sydney_2_1024	path length:Unit: 50	1589.0002	rtaa imp:0.3051948051948052
+map:Sydney_2_1024	path length:Unit: 82	1761.0001	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 394	1882.1987	rtaa imp:0.36774193548387096
+map:Sydney_2_1024	path length:Unit: 493	1599.3999	rtaa imp:0.28846153846153844
+map:Sydney_2_1024	path length:Unit: 266	1819.3997	rtaa imp:0.2389937106918239
+map:Sydney_2_1024	path length:Unit: 398	1948.9995	rtaa imp:0.2641509433962264
+map:Sydney_2_1024	path length:Unit: 107	1809.0004	rtaa imp:0.26875
+map:Sydney_2_1024	path length:Unit: 280	1791.0001	rtaa imp:0.294478527607362
+map:Sydney_2_1024	path length:Unit: 169	1675.4001	rtaa imp:0.25609756097560976
+map:Sydney_2_1024	path length:Unit: 202	1752.6	rtaa imp:0.2682926829268293
+map:Sydney_2_1024	path length:Unit: 48	1717.0	rtaa imp:0.2874251497005988
+map:Sydney_2_1024	path length:Unit: 229	1891.7999	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 148	1941.0002	rtaa imp:0.32386363636363635
+map:Sydney_2_1024	path length:Unit: 433	2137.399	rtaa imp:0.32967032967032966
+map:Sydney_2_1024	path length:Unit: 476	2358.9988	rtaa imp:0.3125
+map:Sydney_2_1024	path length:Unit: 80	2119.0	rtaa imp:0.3383084577114428
+map:Sydney_2_1024	path length:	suc_rate:	0.498
+RTAA
+map:Sydney_2_1024	path length:Unit: 54	29.2	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 92	30.4	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 284	37.2	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 260	45.4	rtaa imp:0.1111111111111111
+map:Sydney_2_1024	path length:Unit: 22	79.0	rtaa imp:0.4166666666666667
+map:Sydney_2_1024	path length:Unit: 100	93.0	rtaa imp:0.5
+map:Sydney_2_1024	path length:Unit: 5	176.99998	rtaa imp:0.1111111111111111
+map:Sydney_2_1024	path length:Unit: 37	184.99998	rtaa imp:0.2777777777777778
+map:Sydney_2_1024	path length:Unit: 88	167.0	rtaa imp:0.21052631578947367
+map:Sydney_2_1024	path length:Unit: 25	157.4	rtaa imp:0.15
+map:Sydney_2_1024	path length:Unit: 187	200.19998	rtaa imp:0.23809523809523808
+map:Sydney_2_1024	path length:Unit: 208	167.4	rtaa imp:0.38095238095238093
+map:Sydney_2_1024	path length:Unit: 42	197.4	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 45	190.2	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 236	216.99998	rtaa imp:0.3181818181818182
+map:Sydney_2_1024	path length:Unit: 317	196.59999	rtaa imp:0.09090909090909091
+map:Sydney_2_1024	path length:Unit: 15	250.99997	rtaa imp:0.391304347826087
+map:Sydney_2_1024	path length:Unit: 39	215.2	rtaa imp:0.041666666666666664
+map:Sydney_2_1024	path length:Unit: 445	263.59998	rtaa imp:0.2916666666666667
+map:Sydney_2_1024	path length:Unit: 328	262.59998	rtaa imp:0.24
+map:Sydney_2_1024	path length:Unit: 434	243.79999	rtaa imp:0.28
+map:Sydney_2_1024	path length:Unit: 472	227.0	rtaa imp:0.24
+map:Sydney_2_1024	path length:Unit: 261	247.0	rtaa imp:0.14814814814814814
+map:Sydney_2_1024	path length:Unit: 367	226.2	rtaa imp:0.25925925925925924
+map:Sydney_2_1024	path length:Unit: 107	265.0	rtaa imp:0.39285714285714285
+map:Sydney_2_1024	path length:Unit: 89	259.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 223	266.2	rtaa imp:0.26666666666666666
+map:Sydney_2_1024	path length:Unit: 431	256.2	rtaa imp:0.3
+map:Sydney_2_1024	path length:Unit: 451	283.0	rtaa imp:0.22580645161290322
+map:Sydney_2_1024	path length:Unit: 216	293.0	rtaa imp:0.28125
+map:Sydney_2_1024	path length:Unit: 251	280.2	rtaa imp:0.1875
+map:Sydney_2_1024	path length:Unit: 4	390.99997	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 181	289.0	rtaa imp:1.7878787878787878
+map:Sydney_2_1024	path length:Unit: 311	326.19995	rtaa imp:0.15151515151515152
+map:Sydney_2_1024	path length:Unit: 495	319.79996	rtaa imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 488	334.2	rtaa imp:0.20588235294117646
+map:Sydney_2_1024	path length:Unit: 209	364.59998	rtaa imp:0.19444444444444445
+map:Sydney_2_1024	path length:Unit: 59	367.0	rtaa imp:0.21621621621621623
+map:Sydney_2_1024	path length:Unit: 97	325.4	rtaa imp:0.2972972972972973
+map:Sydney_2_1024	path length:Unit: 203	414.99997	rtaa imp:0.1891891891891892
+map:Sydney_2_1024	path length:Unit: 418	386.99997	rtaa imp:0.1891891891891892
+map:Sydney_2_1024	path length:Unit: 112	341.0	rtaa imp:0.15789473684210525
+map:Sydney_2_1024	path length:Unit: 416	361.8	rtaa imp:0.18421052631578946
+map:Sydney_2_1024	path length:Unit: 169	406.99997	rtaa imp:0.20512820512820512
+map:Sydney_2_1024	path length:Unit: 144	394.59998	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 188	366.2	rtaa imp:0.225
+map:Sydney_2_1024	path length:Unit: 423	355.0	rtaa imp:0.225
+map:Sydney_2_1024	path length:Unit: 432	368.99988	rtaa imp:0.175
+map:Sydney_2_1024	path length:Unit: 72	482.99997	rtaa imp:0.1951219512195122
+map:Sydney_2_1024	path length:Unit: 192	488.5999	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 301	452.99997	rtaa imp:0.2619047619047619
+map:Sydney_2_1024	path length:Unit: 438	409.8	rtaa imp:0.2619047619047619
+map:Sydney_2_1024	path length:Unit: 273	505.79996	rtaa imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 184	439.0	rtaa imp:0.24444444444444444
+map:Sydney_2_1024	path length:Unit: 345	486.99997	rtaa imp:0.24444444444444444
+map:Sydney_2_1024	path length:Unit: 26	504.99997	rtaa imp:0.2608695652173913
+map:Sydney_2_1024	path length:Unit: 125	431.0	rtaa imp:0.2765957446808511
+map:Sydney_2_1024	path length:Unit: 93	449.4	rtaa imp:0.3125
+map:Sydney_2_1024	path length:Unit: 269	481.0	rtaa imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 32	614.99994	rtaa imp:0.32653061224489793
+map:Sydney_2_1024	path length:Unit: 117	599.0	rtaa imp:0.16326530612244897
+map:Sydney_2_1024	path length:Unit: 136	543.39996	rtaa imp:0.16326530612244897
+map:Sydney_2_1024	path length:Unit: 46	556.2001	rtaa imp:0.13725490196078433
+map:Sydney_2_1024	path length:Unit: 156	462.4	rtaa imp:0.21568627450980393
+map:Sydney_2_1024	path length:Unit: 402	487.8	rtaa imp:0.35294117647058826
+map:Sydney_2_1024	path length:Unit: 99	480.19998	rtaa imp:0.15384615384615385
+map:Sydney_2_1024	path length:Unit: 334	525.8	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 16	575.4	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 73	561.99994	rtaa imp:0.12962962962962962
+map:Sydney_2_1024	path length:Unit: 109	649.0	rtaa imp:0.2037037037037037
+map:Sydney_2_1024	path length:Unit: 377	499.0	rtaa imp:0.14814814814814814
+map:Sydney_2_1024	path length:Unit: 459	676.6	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 96	525.4	rtaa imp:0.15789473684210525
+map:Sydney_2_1024	path length:Unit: 307	634.39996	rtaa imp:0.5263157894736842
+map:Sydney_2_1024	path length:Unit: 29	708.6	rtaa imp:0.3103448275862069
+map:Sydney_2_1024	path length:Unit: 242	565.8	rtaa imp:0.3103448275862069
+map:Sydney_2_1024	path length:Unit: 449	635.4	rtaa imp:0.2033898305084746
+map:Sydney_2_1024	path length:Unit: 130	645.0	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 152	617.7999	rtaa imp:0.5333333333333333
+map:Sydney_2_1024	path length:Unit: 270	621.0	rtaa imp:0.23333333333333334
+map:Sydney_2_1024	path length:Unit: 259	735.00006	rtaa imp:0.32786885245901637
+map:Sydney_2_1024	path length:Unit: 446	670.9999	rtaa imp:0.16393442622950818
+map:Sydney_2_1024	path length:Unit: 496	623.39996	rtaa imp:0.3225806451612903
+map:Sydney_2_1024	path length:Unit: 309	657.3999	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 190	663.0	rtaa imp:0.36923076923076925
+map:Sydney_2_1024	path length:Unit: 405	722.60004	rtaa imp:0.22388059701492538
+map:Sydney_2_1024	path length:Unit: 108	745.0	rtaa imp:0.3
+map:Sydney_2_1024	path length:Unit: 302	811.8001	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 186	887.3997	rtaa imp:0.23943661971830985
+map:Sydney_2_1024	path length:Unit: 404	750.5999	rtaa imp:0.19718309859154928
+map:Sydney_2_1024	path length:Unit: 491	773.0	rtaa imp:0.23943661971830985
+map:Sydney_2_1024	path length:Unit: 386	829.0	rtaa imp:0.2638888888888889
+map:Sydney_2_1024	path length:Unit: 395	749.79987	rtaa imp:0.3194444444444444
+map:Sydney_2_1024	path length:Unit: 175	770.6001	rtaa imp:0.1780821917808219
+map:Sydney_2_1024	path length:Unit: 201	715.0	rtaa imp:0.1643835616438356
+map:Sydney_2_1024	path length:Unit: 76	892.99994	rtaa imp:0.4
+map:Sydney_2_1024	path length:Unit: 180	891.0	rtaa imp:0.18666666666666668
+map:Sydney_2_1024	path length:Unit: 196	800.19995	rtaa imp:0.29333333333333333
+map:Sydney_2_1024	path length:Unit: 168	980.99994	rtaa imp:0.3026315789473684
+map:Sydney_2_1024	path length:Unit: 444	796.6	rtaa imp:0.18421052631578946
+map:Sydney_2_1024	path length:Unit: 487	881.4001	rtaa imp:0.3246753246753247
+map:Sydney_2_1024	path length:Unit: 197	817.0	rtaa imp:0.1794871794871795
+map:Sydney_2_1024	path length:Unit: 391	812.6	rtaa imp:0.32051282051282054
+map:Sydney_2_1024	path length:Unit: 91	815.0	rtaa imp:0.26582278481012656
+map:Sydney_2_1024	path length:Unit: 64	968.60004	rtaa imp:0.2625
+map:Sydney_2_1024	path length:Unit: 68	829.4	rtaa imp:0.175
+map:Sydney_2_1024	path length:Unit: 101	902.2	rtaa imp:0.2125
+map:Sydney_2_1024	path length:Unit: 147	813.00006	rtaa imp:0.35
+map:Sydney_2_1024	path length:Unit: 212	756.6	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 281	905.79987	rtaa imp:0.2875
+map:Sydney_2_1024	path length:Unit: 360	868.60016	rtaa imp:0.325
+map:Sydney_2_1024	path length:Unit: 392	952.6	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 483	881.8001	rtaa imp:0.2375
+map:Sydney_2_1024	path length:Unit: 475	995.0	rtaa imp:0.24691358024691357
+map:Sydney_2_1024	path length:Unit: 69	775.4	rtaa imp:0.2804878048780488
+map:Sydney_2_1024	path length:Unit: 74	913.0	rtaa imp:0.3048780487804878
+map:Sydney_2_1024	path length:Unit: 363	950.19995	rtaa imp:0.35365853658536583
+map:Sydney_2_1024	path length:Unit: 166	1035.7999	rtaa imp:0.25301204819277107
+map:Sydney_2_1024	path length:Unit: 171	967.4	rtaa imp:0.42168674698795183
+map:Sydney_2_1024	path length:Unit: 463	997.7997	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 118	1109.0	rtaa imp:0.27906976744186046
+map:Sydney_2_1024	path length:Unit: 172	855.8	rtaa imp:0.1724137931034483
+map:Sydney_2_1024	path length:Unit: 146	1029.8	rtaa imp:0.26136363636363635
+map:Sydney_2_1024	path length:Unit: 365	1009.7999	rtaa imp:0.1590909090909091
+map:Sydney_2_1024	path length:Unit: 103	850.6	rtaa imp:0.30337078651685395
+map:Sydney_2_1024	path length:Unit: 414	927.20013	rtaa imp:0.6067415730337079
+map:Sydney_2_1024	path length:Unit: 60	882.2	rtaa imp:0.35555555555555557
+map:Sydney_2_1024	path length:Unit: 420	1154.3995	rtaa imp:0.25555555555555554
+map:Sydney_2_1024	path length:Unit: 122	1005.00006	rtaa imp:0.2087912087912088
+map:Sydney_2_1024	path length:Unit: 283	1122.2	rtaa imp:0.32967032967032966
+map:Sydney_2_1024	path length:Unit: 40	866.80005	rtaa imp:0.1935483870967742
+map:Sydney_2_1024	path length:Unit: 333	996.60004	rtaa imp:0.2903225806451613
+map:Sydney_2_1024	path length:Unit: 14	1020.6001	rtaa imp:0.2553191489361702
+map:Sydney_2_1024	path length:Unit: 290	1020.8003	rtaa imp:0.22340425531914893
+map:Sydney_2_1024	path length:Unit: 320	973.0	rtaa imp:0.30851063829787234
+map:Sydney_2_1024	path length:Unit: 357	907.4	rtaa imp:0.24468085106382978
+map:Sydney_2_1024	path length:Unit: 165	1031.8	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 255	913.4	rtaa imp:0.8842105263157894
+map:Sydney_2_1024	path length:Unit: 476	1118.5999	rtaa imp:0.3157894736842105
+map:Sydney_2_1024	path length:Unit: 489	1198.5999	rtaa imp:0.25263157894736843
+map:Sydney_2_1024	path length:Unit: 359	1107.7999	rtaa imp:0.29896907216494845
+map:Sydney_2_1024	path length:Unit: 81	1153.0	rtaa imp:0.25510204081632654
+map:Sydney_2_1024	path length:Unit: 315	1059.8	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 17	1246.9999	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 137	1135.0	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 163	1046.2	rtaa imp:0.20202020202020202
+map:Sydney_2_1024	path length:Unit: 426	949.4	rtaa imp:0.23232323232323232
+map:Sydney_2_1024	path length:Unit: 421	978.2	rtaa imp:0.28
+map:Sydney_2_1024	path length:Unit: 373	1076.2	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 262	1211.0	rtaa imp:0.20388349514563106
+map:Sydney_2_1024	path length:Unit: 358	1130.2002	rtaa imp:0.18446601941747573
+map:Sydney_2_1024	path length:Unit: 193	1116.2001	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 493	1088.6	rtaa imp:0.25961538461538464
+map:Sydney_2_1024	path length:Unit: 417	1125.0	rtaa imp:0.2571428571428571
+map:Sydney_2_1024	path length:Unit: 36	1156.6001	rtaa imp:0.2830188679245283
+map:Sydney_2_1024	path length:Unit: 161	1020.2	rtaa imp:0.3018867924528302
+map:Sydney_2_1024	path length:Unit: 384	1057.0	rtaa imp:0.29245283018867924
+map:Sydney_2_1024	path length:Unit: 372	1267.0001	rtaa imp:0.2616822429906542
+map:Sydney_2_1024	path length:Unit: 428	1239.0001	rtaa imp:0.32710280373831774
+map:Sydney_2_1024	path length:Unit: 245	1037.4	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 234	1151.0	rtaa imp:0.3119266055045872
+map:Sydney_2_1024	path length:Unit: 427	1221.0	rtaa imp:0.2767857142857143
+map:Sydney_2_1024	path length:Unit: 124	1418.5999	rtaa imp:0.2920353982300885
+map:Sydney_2_1024	path length:Unit: 213	1322.2001	rtaa imp:0.2719298245614035
+map:Sydney_2_1024	path length:Unit: 282	1150.2	rtaa imp:0.22807017543859648
+map:Sydney_2_1024	path length:Unit: 387	1345.3994	rtaa imp:0.2457627118644068
+map:Sydney_2_1024	path length:Unit: 347	1430.2	rtaa imp:0.2773109243697479
+map:Sydney_2_1024	path length:Unit: 111	1179.7999	rtaa imp:0.23333333333333334
+map:Sydney_2_1024	path length:Unit: 215	1330.2	rtaa imp:0.3140495867768595
+map:Sydney_2_1024	path length:Unit: 297	1280.2001	rtaa imp:0.22131147540983606
+map:Sydney_2_1024	path length:Unit: 452	1440.5999	rtaa imp:0.27049180327868855
+map:Sydney_2_1024	path length:Unit: 140	1187.4	rtaa imp:0.43902439024390244
+map:Sydney_2_1024	path length:Unit: 83	1551.4	rtaa imp:0.23387096774193547
+map:Sydney_2_1024	path length:Unit: 86	1344.9999	rtaa imp:0.2578125
+map:Sydney_2_1024	path length:Unit: 214	1478.6	rtaa imp:0.21875
+map:Sydney_2_1024	path length:Unit: 470	1449.3999	rtaa imp:0.359375
+map:Sydney_2_1024	path length:Unit: 143	1453.3994	rtaa imp:0.2558139534883721
+map:Sydney_2_1024	path length:Unit: 217	1306.2	rtaa imp:0.2558139534883721
+map:Sydney_2_1024	path length:Unit: 248	1665.9999	rtaa imp:0.2748091603053435
+map:Sydney_2_1024	path length:Unit: 336	1299.0	rtaa imp:0.22137404580152673
+map:Sydney_2_1024	path length:Unit: 394	1459.0004	rtaa imp:0.21374045801526717
+map:Sydney_2_1024	path length:Unit: 218	1323.4001	rtaa imp:0.2781954887218045
+map:Sydney_2_1024	path length:Unit: 401	1443.9999	rtaa imp:0.19548872180451127
+map:Sydney_2_1024	path length:Unit: 346	1274.6	rtaa imp:0.21641791044776118
+map:Sydney_2_1024	path length:Unit: 439	1606.1992	rtaa imp:0.29850746268656714
+map:Sydney_2_1024	path length:Unit: 469	1506.6005	rtaa imp:0.2835820895522388
+map:Sydney_2_1024	path length:Unit: 424	1573.9996	rtaa imp:0.14814814814814814
+map:Sydney_2_1024	path length:Unit: 237	1441.4006	rtaa imp:0.34558823529411764
+map:Sydney_2_1024	path length:Unit: 253	1567.0015	rtaa imp:0.7536231884057971
+map:Sydney_2_1024	path length:Unit: 87	1581.3999	rtaa imp:0.2733812949640288
+map:Sydney_2_1024	path length:Unit: 189	1611.0	rtaa imp:0.31654676258992803
+map:Sydney_2_1024	path length:Unit: 280	1340.2002	rtaa imp:0.2949640287769784
+map:Sydney_2_1024	path length:Unit: 442	1696.5996	rtaa imp:0.2949640287769784
+map:Sydney_2_1024	path length:Unit: 18	1649.8	rtaa imp:0.29285714285714287
+map:Sydney_2_1024	path length:Unit: 51	1485.0	rtaa imp:0.2714285714285714
+map:Sydney_2_1024	path length:Unit: 306	1482.2001	rtaa imp:0.29577464788732394
+map:Sydney_2_1024	path length:Unit: 128	1615.0	rtaa imp:0.2777777777777778
+map:Sydney_2_1024	path length:Unit: 131	1522.8003	rtaa imp:0.2777777777777778
+map:Sydney_2_1024	path length:Unit: 23	1603.0002	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 145	1572.6	rtaa imp:0.22602739726027396
+map:Sydney_2_1024	path length:Unit: 182	1457.0	rtaa imp:0.2808219178082192
+map:Sydney_2_1024	path length:Unit: 494	1559.8	rtaa imp:0.30612244897959184
+map:Sydney_2_1024	path length:Unit: 296	1679.0002	rtaa imp:0.2702702702702703
+map:Sydney_2_1024	path length:Unit: 492	1972.5984	rtaa imp:0.32432432432432434
+map:Sydney_2_1024	path length:Unit: 375	2016.5979	rtaa imp:0.24836601307189543
+map:Sydney_2_1024	path length:Unit: 157	1649.0	rtaa imp:0.34177215189873417
+map:Sydney_2_1024	path length:Unit: 350	1773.0	rtaa imp:0.28125
+map:Sydney_2_1024	path length:Unit: 443	1777.4001	rtaa imp:0.3
+map:Sydney_2_1024	path length:Unit: 1	1763.3999	rtaa imp:0.10559006211180125
+map:Sydney_2_1024	path length:Unit: 381	1807.0001	rtaa imp:0.23636363636363636
+map:Sydney_2_1024	path length:Unit: 393	1907.8	rtaa imp:0.32727272727272727
+map:Sydney_2_1024	path length:Unit: 455	1906.0002	rtaa imp:0.2289156626506024
+map:Sydney_2_1024	path length:Unit: 460	1415.2002	rtaa imp:0.26785714285714285
+map:Sydney_2_1024	path length:Unit: 409	1727.0004	rtaa imp:0.22857142857142856
+map:Sydney_2_1024	path length:Unit: 293	1865.4	rtaa imp:0.2905027932960894
+map:Sydney_2_1024	path length:Unit: 480	2001.2001	rtaa imp:0.25136612021857924
+map:Sydney_2_1024	path length:Unit: 49	2161.0	rtaa imp:0.34574468085106386
+map:Sydney_2_1024	path length:Unit: 239	2151.8003	rtaa imp:0.30687830687830686
+map:Sydney_2_1024	path length:Unit: 159	2088.2002	rtaa imp:0.24607329842931938
+map:Sydney_2_1024	path length:Unit: 389	1994.8009	rtaa imp:0.20418848167539266
+map:Sydney_2_1024	path length:Unit: 162	1889.4	rtaa imp:0.3072916666666667
+map:Sydney_2_1024	path length:Unit: 287	2181.0	rtaa imp:0.3177083333333333
+map:Sydney_2_1024	path length:Unit: 322	1947.1998	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 225	2234.2002	rtaa imp:0.25257731958762886
+map:Sydney_2_1024	path length:Unit: 371	2309.3994	rtaa imp:0.25257731958762886
+map:Sydney_2_1024	path length:Unit: 267	2324.1995	rtaa imp:0.24630541871921183
+map:Sydney_2_1024	path length:Unit: 397	2133.8	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:	suc_rate:	0.454
+map:Sydney_2_1024	path length:Unit: 54	19.2	a eaa:0.14285714285714285	edge time17.0
+map:Sydney_2_1024	path length:Unit: 92	20.4	a eaa:0.0	edge time27.0
+map:Sydney_2_1024	path length:Unit: 284	22.2	a eaa:0.25	edge time32.0
+map:Sydney_2_1024	path length:Unit: 260	24.4	a eaa:0.4444444444444444	edge time20.0
+map:Sydney_2_1024	path length:Unit: 22	36.6	a eaa:0.16666666666666666	edge time38.0
+map:Sydney_2_1024	path length:Unit: 100	42.600002	a eaa:0.08333333333333333	edge time41.0
+map:Sydney_2_1024	path length:Unit: 5	67.8	a eaa:0.16666666666666666	edge time20.0
+map:Sydney_2_1024	path length:Unit: 37	70.20001	a eaa:0.16666666666666666	edge time24.0
+map:Sydney_2_1024	path length:Unit: 88	64.8	a eaa:0.10526315789473684	edge time38.0
+map:Sydney_2_1024	path length:Unit: 25	59.4	a eaa:0.15	edge time21.0
+map:Sydney_2_1024	path length:Unit: 187	75.600006	a eaa:0.19047619047619047	edge time23.0
+map:Sydney_2_1024	path length:Unit: 208	62.4	a eaa:0.19047619047619047	edge time25.0
+map:Sydney_2_1024	path length:Unit: 42	71.0	a eaa:0.045454545454545456	edge time24.0
+map:Sydney_2_1024	path length:Unit: 45	72.2	a eaa:0.09090909090909091	edge time36.0
+map:Sydney_2_1024	path length:Unit: 236	79.8	a eaa:0.09090909090909091	edge time39.0
+map:Sydney_2_1024	path length:Unit: 317	73.4	a eaa:0.18181818181818182	edge time31.0
+map:Sydney_2_1024	path length:Unit: 15	90.0	a eaa:0.0	edge time29.0
+map:Sydney_2_1024	path length:Unit: 445	95.6	a eaa:0.25	edge time39.0
+map:Sydney_2_1024	path length:Unit: 328	93.200005	a eaa:0.04	edge time23.0
+map:Sydney_2_1024	path length:Unit: 434	87.600006	a eaa:0.12	edge time21.0
+map:Sydney_2_1024	path length:Unit: 472	82.8	a eaa:0.08	edge time18.0
+map:Sydney_2_1024	path length:Unit: 261	88.8	a eaa:0.25925925925925924	edge time22.0
+map:Sydney_2_1024	path length:Unit: 367	79.2	a eaa:0.25925925925925924	edge time24.0
+map:Sydney_2_1024	path length:Unit: 107	94.200005	a eaa:0.10714285714285714	edge time45.0
+map:Sydney_2_1024	path length:Unit: 89	90.6	a eaa:0.13333333333333333	edge time39.0
+map:Sydney_2_1024	path length:Unit: 223	94.2	a eaa:0.2	edge time36.0
+map:Sydney_2_1024	path length:Unit: 431	88.2	a eaa:0.16666666666666666	edge time25.0
+map:Sydney_2_1024	path length:Unit: 451	99.600006	a eaa:0.25806451612903225	edge time36.0
+map:Sydney_2_1024	path length:Unit: 216	102.600006	a eaa:0.34375	edge time19.0
+map:Sydney_2_1024	path length:Unit: 251	97.8	a eaa:0.21875	edge time25.0
+map:Sydney_2_1024	path length:Unit: 4	131.99997	a eaa:0.21212121212121213	edge time21.0
+map:Sydney_2_1024	path length:Unit: 181	99.6	a eaa:0.24242424242424243	edge time37.0
+map:Sydney_2_1024	path length:Unit: 311	114.80002	a eaa:0.09090909090909091	edge time41.0
+map:Sydney_2_1024	path length:Unit: 495	111.60001	a eaa:0.18181818181818182	edge time21.0
+map:Sydney_2_1024	path length:Unit: 488	115.80001	a eaa:0.20588235294117646	edge time20.0
+map:Sydney_2_1024	path length:Unit: 209	123.8	a eaa:0.16666666666666666	edge time21.0
+map:Sydney_2_1024	path length:Unit: 59	124.8	a eaa:0.13513513513513514	edge time16.0
+map:Sydney_2_1024	path length:Unit: 97	108.4	a eaa:0.21621621621621623	edge time40.0
+map:Sydney_2_1024	path length:Unit: 203	139.19998	a eaa:0.13513513513513514	edge time19.0
+map:Sydney_2_1024	path length:Unit: 418	130.8	a eaa:0.10810810810810811	edge time40.0
+map:Sydney_2_1024	path length:Unit: 112	115.8	a eaa:0.10526315789473684	edge time49.0
+map:Sydney_2_1024	path length:Unit: 416	123.8	a eaa:0.18421052631578946	edge time35.0
+map:Sydney_2_1024	path length:Unit: 169	136.8	a eaa:0.23076923076923078	edge time37.0
+map:Sydney_2_1024	path length:Unit: 144	130.6	a eaa:0.2	edge time29.0
+map:Sydney_2_1024	path length:Unit: 188	124.2	a eaa:0.125	edge time24.0
+map:Sydney_2_1024	path length:Unit: 423	117.0	a eaa:0.05	edge time42.0
+map:Sydney_2_1024	path length:Unit: 432	124.20001	a eaa:0.225	edge time24.0
+map:Sydney_2_1024	path length:Unit: 72	159.59996	a eaa:0.17073170731707318	edge time19.0
+map:Sydney_2_1024	path length:Unit: 192	160.99994	a eaa:0.14285714285714285	edge time9.0
+map:Sydney_2_1024	path length:Unit: 301	150.59999	a eaa:0.16666666666666666	edge time57.0
+map:Sydney_2_1024	path length:Unit: 438	138.20001	a eaa:0.16666666666666666	edge time22.0
+map:Sydney_2_1024	path length:Unit: 273	166.99995	a eaa:0.20454545454545456	edge time29.0
+map:Sydney_2_1024	path length:Unit: 184	146.40001	a eaa:0.28888888888888886	edge time37.0
+map:Sydney_2_1024	path length:Unit: 345	160.79999	a eaa:0.2	edge time33.0
+map:Sydney_2_1024	path length:Unit: 26	166.19998	a eaa:0.17391304347826086	edge time34.0
+map:Sydney_2_1024	path length:Unit: 125	142.8	a eaa:0.14893617021276595	edge time41.0
+map:Sydney_2_1024	path length:Unit: 93	149.4	a eaa:0.25	edge time30.0
+map:Sydney_2_1024	path length:Unit: 269	159.0	a eaa:0.0625	edge time30.0
+map:Sydney_2_1024	path length:Unit: 32	199.19992	a eaa:0.08163265306122448	edge time19.0
+map:Sydney_2_1024	path length:Unit: 117	194.39993	a eaa:0.10204081632653061	edge time33.0
+map:Sydney_2_1024	path length:Unit: 136	178.00002	a eaa:0.20408163265306123	edge time36.0
+map:Sydney_2_1024	path length:Unit: 46	180.40001	a eaa:0.13725490196078433	edge time40.0
+map:Sydney_2_1024	path length:Unit: 156	152.0	a eaa:0.11764705882352941	edge time40.0
+map:Sydney_2_1024	path length:Unit: 402	159.2	a eaa:0.1568627450980392	edge time48.0
+map:Sydney_2_1024	path length:Unit: 99	157.8	a eaa:0.11538461538461539	edge time43.0
+map:Sydney_2_1024	path length:Unit: 334	173.00002	a eaa:0.09615384615384616	edge time21.0
+map:Sydney_2_1024	path length:Unit: 16	186.20001	a eaa:0.16666666666666666	edge time36.0
+map:Sydney_2_1024	path length:Unit: 109	209.39993	a eaa:0.2962962962962963	edge time42.0
+map:Sydney_2_1024	path length:Unit: 377	162.6	a eaa:0.2222222222222222	edge time25.0
+map:Sydney_2_1024	path length:Unit: 459	220.7999	a eaa:0.17857142857142858	edge time48.0
+map:Sydney_2_1024	path length:Unit: 96	168.4	a eaa:0.19298245614035087	edge time199.0
+map:Sydney_2_1024	path length:Unit: 29	226.99991	a eaa:0.1724137931034483	edge time41.0
+map:Sydney_2_1024	path length:Unit: 242	185.00002	a eaa:0.06896551724137931	edge time286.0
+map:Sydney_2_1024	path length:Unit: 449	205.19998	a eaa:0.11864406779661017	edge time29.0
+map:Sydney_2_1024	path length:Unit: 130	208.19998	a eaa:0.13333333333333333	edge time40.0
+map:Sydney_2_1024	path length:Unit: 152	199.80002	a eaa:0.16666666666666666	edge time21.0
+map:Sydney_2_1024	path length:Unit: 270	201.0	a eaa:0.16666666666666666	edge time29.0
+map:Sydney_2_1024	path length:Unit: 259	235.19992	a eaa:0.19672131147540983	edge time26.0
+map:Sydney_2_1024	path length:Unit: 446	213.59991	a eaa:0.14754098360655737	edge time47.0
+map:Sydney_2_1024	path length:Unit: 307	228.59995	a eaa:0.1774193548387097	edge time43.0
+map:Sydney_2_1024	path length:Unit: 496	203.4	a eaa:0.11290322580645161	edge time22.0
+map:Sydney_2_1024	path length:Unit: 309	211.60002	a eaa:0.125	edge time68.0
+map:Sydney_2_1024	path length:Unit: 190	213.6	a eaa:0.2153846153846154	edge time32.0
+map:Sydney_2_1024	path length:Unit: 405	228.79997	a eaa:0.08955223880597014	edge time45.0
+map:Sydney_2_1024	path length:Unit: 108	238.19998	a eaa:0.14285714285714285	edge time29.0
+map:Sydney_2_1024	path length:Unit: 302	260.1999	a eaa:0.14285714285714285	edge time44.0
+map:Sydney_2_1024	path length:Unit: 186	277.19998	a eaa:0.14084507042253522	edge time29.0
+map:Sydney_2_1024	path length:Unit: 404	240.8	a eaa:0.19718309859154928	edge time57.0
+map:Sydney_2_1024	path length:Unit: 491	253.19994	a eaa:0.2112676056338028	edge time26.0
+map:Sydney_2_1024	path length:Unit: 386	263.39993	a eaa:0.16666666666666666	edge time32.0
+map:Sydney_2_1024	path length:Unit: 395	240.2	a eaa:0.09722222222222222	edge time46.0
+map:Sydney_2_1024	path length:Unit: 175	245.59991	a eaa:0.1780821917808219	edge time122.0
+map:Sydney_2_1024	path length:Unit: 201	229.20001	a eaa:0.1506849315068493	edge time24.0
+map:Sydney_2_1024	path length:	suc_rate:	0.186
+map:Sydney_2_1024	path length:Unit: 54	7.8	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 92	8.2	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 284	8.8	a rep imp:1.0
+map:Sydney_2_1024	path length:Unit: 260	9.4	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 22	13.6	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 100	18.599998	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 5	23.999998	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 37	24.799997	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 88	22.999998	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 25	21.2	a rep imp:0.5
+RTAA
+map:Sydney_2_1024	path length:Unit: 99	6.0	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 95	152.99998	rtaa imp:0.5
+map:Sydney_2_1024	path length:Unit: 49	165.0	rtaa imp:0.5238095238095238
+map:Sydney_2_1024	path length:Unit: 89	298.99997	rtaa imp:0.18518518518518517
+map:Sydney_2_1024	path length:Unit: 2	344.99997	rtaa imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 32	303.0	rtaa imp:0.2903225806451613
+map:Sydney_2_1024	path length:Unit: 15	420.99997	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 92	349.4	rtaa imp:0.21052631578947367
+map:Sydney_2_1024	path length:Unit: 74	355.8	rtaa imp:0.225
+map:Sydney_2_1024	path length:Unit: 82	377.0	rtaa imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 78	450.99997	rtaa imp:0.18604651162790697
+map:Sydney_2_1024	path length:Unit: 27	437.80002	rtaa imp:0.06818181818181818
+map:Sydney_2_1024	path length:Unit: 17	571.0	rtaa imp:0.1509433962264151
+map:Sydney_2_1024	path length:Unit: 0	523.0	rtaa imp:0.24074074074074073
+map:Sydney_2_1024	path length:Unit: 98	578.9999	rtaa imp:0.23636363636363636
+map:Sydney_2_1024	path length:Unit: 24	578.2	rtaa imp:0.2542372881355932
+map:Sydney_2_1024	path length:Unit: 6	664.5998	rtaa imp:0.3125
+map:Sydney_2_1024	path length:Unit: 16	832.99994	rtaa imp:0.36363636363636365
+map:Sydney_2_1024	path length:Unit: 83	810.5998	rtaa imp:0.19402985074626866
+map:Sydney_2_1024	path length:Unit: 50	797.0	rtaa imp:0.20588235294117646
+map:Sydney_2_1024	path length:Unit: 9	756.99994	rtaa imp:0.14864864864864866
+map:Sydney_2_1024	path length:Unit: 57	793.80005	rtaa imp:0.2702702702702703
+map:Sydney_2_1024	path length:Unit: 12	715.7999	rtaa imp:0.17333333333333334
+map:Sydney_2_1024	path length:Unit: 73	775.0	rtaa imp:0.22784810126582278
+map:Sydney_2_1024	path length:Unit: 28	1010.99994	rtaa imp:0.19753086419753085
+map:Sydney_2_1024	path length:Unit: 48	785.4	rtaa imp:0.15853658536585366
+map:Sydney_2_1024	path length:Unit: 44	1104.6	rtaa imp:0.12790697674418605
+map:Sydney_2_1024	path length:Unit: 79	1217.0	rtaa imp:0.4148936170212766
+map:Sydney_2_1024	path length:Unit: 41	1135.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 31	1174.5999	rtaa imp:0.711340206185567
+map:Sydney_2_1024	path length:Unit: 80	973.0	rtaa imp:0.23
+map:Sydney_2_1024	path length:Unit: 22	1071.8	rtaa imp:0.27450980392156865
+map:Sydney_2_1024	path length:Unit: 90	1068.4001	rtaa imp:0.22115384615384615
+map:Sydney_2_1024	path length:Unit: 39	1205.4	rtaa imp:0.20754716981132076
+map:Sydney_2_1024	path length:Unit: 36	1405.0	rtaa imp:0.21666666666666667
+map:Sydney_2_1024	path length:Unit: 25	1317.0	rtaa imp:0.26153846153846155
+map:Sydney_2_1024	path length:Unit: 3	1387.0	rtaa imp:0.0851063829787234
+map:Sydney_2_1024	path length:Unit: 71	1817.7999	rtaa imp:0.24822695035460993
+map:Sydney_2_1024	path length:Unit: 70	1628.4	rtaa imp:0.29931972789115646
+map:Sydney_2_1024	path length:Unit: 94	1603.7996	rtaa imp:0.15
+map:Sydney_2_1024	path length:Unit: 64	1619.0	rtaa imp:0.15950920245398773
+map:Sydney_2_1024	path length:Unit: 7	1835.0	rtaa imp:0.28488372093023256
+map:Sydney_2_1024	path length:Unit: 23	1801.0	rtaa imp:0.19444444444444445
+map:Sydney_2_1024	path length:Unit: 84	2208.9983	rtaa imp:0.1891891891891892
+map:Sydney_2_1024	path length:	suc_rate:	0.44
+map:Sydney_2_1024	path length:Unit: 99	3.0	a eaa:1.0	edge time38.0
+map:Sydney_2_1024	path length:Unit: 95	21.599998	a eaa:2.3333333333333335	edge time39.0
+RTAA
+map:Sydney_2_1024	path length:Unit: 95	3.4	rtaa imp:0.5
+map:Sydney_2_1024	path length:Unit: 47	39.2	rtaa imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 38	38.4	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 175	47.4	rtaa imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 43	120.99999	rtaa imp:0.07142857142857142
+map:Sydney_2_1024	path length:Unit: 63	119.4	rtaa imp:0.26666666666666666
+map:Sydney_2_1024	path length:Unit: 155	159.0	rtaa imp:0.3684210526315789
+map:Sydney_2_1024	path length:Unit: 84	176.2	rtaa imp:0.19047619047619047
+map:Sydney_2_1024	path length:Unit: 93	198.99998	rtaa imp:0.23809523809523808
+map:Sydney_2_1024	path length:Unit: 66	175.4	rtaa imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 90	181.0	rtaa imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 164	275.0	rtaa imp:0.25925925925925924
+map:Sydney_2_1024	path length:Unit: 50	253.4	rtaa imp:0.20689655172413793
+map:Sydney_2_1024	path length:Unit: 59	344.99997	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 34	267.4	rtaa imp:0.1935483870967742
+map:Sydney_2_1024	path length:Unit: 1	313.0	rtaa imp:0.21875
+map:Sydney_2_1024	path length:Unit: 71	297.4	rtaa imp:0.20588235294117646
+map:Sydney_2_1024	path length:Unit: 5	353.8	rtaa imp:0.08333333333333333
+map:Sydney_2_1024	path length:Unit: 148	402.99997	rtaa imp:0.16216216216216217
+map:Sydney_2_1024	path length:Unit: 49	329.59998	rtaa imp:0.23684210526315788
+map:Sydney_2_1024	path length:Unit: 145	408.99997	rtaa imp:0.2894736842105263
+map:Sydney_2_1024	path length:Unit: 162	353.0	rtaa imp:0.10526315789473684
+map:Sydney_2_1024	path length:Unit: 89	371.0	rtaa imp:0.15384615384615385
+map:Sydney_2_1024	path length:Unit: 154	441.4	rtaa imp:0.15384615384615385
+map:Sydney_2_1024	path length:Unit: 68	436.39996	rtaa imp:0.20930232558139536
+map:Sydney_2_1024	path length:Unit: 77	512.6	rtaa imp:0.3409090909090909
+map:Sydney_2_1024	path length:Unit: 166	403.40002	rtaa imp:0.3181818181818182
+map:Sydney_2_1024	path length:Unit: 42	545.0	rtaa imp:0.17391304347826086
+map:Sydney_2_1024	path length:Unit: 150	532.6	rtaa imp:0.13043478260869565
+map:Sydney_2_1024	path length:Unit: 105	453.0	rtaa imp:0.14583333333333334
+map:Sydney_2_1024	path length:Unit: 180	496.99997	rtaa imp:0.22916666666666666
+map:Sydney_2_1024	path length:Unit: 165	595.0	rtaa imp:0.16326530612244897
+map:Sydney_2_1024	path length:Unit: 191	493.0	rtaa imp:0.24
+map:Sydney_2_1024	path length:Unit: 30	489.0	rtaa imp:0.16981132075471697
+map:Sydney_2_1024	path length:Unit: 13	589.0	rtaa imp:0.24074074074074073
+map:Sydney_2_1024	path length:Unit: 73	513.4	rtaa imp:0.16363636363636364
+map:Sydney_2_1024	path length:Unit: 176	549.6	rtaa imp:0.16363636363636364
+map:Sydney_2_1024	path length:Unit: 6	523.4	rtaa imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 4	723.39996	rtaa imp:0.21311475409836064
+map:Sydney_2_1024	path length:Unit: 187	596.7999	rtaa imp:0.25806451612903225
+map:Sydney_2_1024	path length:Unit: 44	723.0	rtaa imp:0.30158730158730157
+map:Sydney_2_1024	path length:Unit: 16	822.99994	rtaa imp:0.2153846153846154
+map:Sydney_2_1024	path length:Unit: 51	671.0	rtaa imp:0.18461538461538463
+map:Sydney_2_1024	path length:Unit: 111	767.0	rtaa imp:0.23880597014925373
+map:Sydney_2_1024	path length:Unit: 27	737.0	rtaa imp:0.3088235294117647
+map:Sydney_2_1024	path length:Unit: 85	877.8	rtaa imp:0.30434782608695654
+map:Sydney_2_1024	path length:Unit: 181	791.0	rtaa imp:0.21739130434782608
+map:Sydney_2_1024	path length:Unit: 19	847.00006	rtaa imp:0.18309859154929578
+map:Sydney_2_1024	path length:Unit: 65	908.99994	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 91	799.0	rtaa imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 60	806.5999	rtaa imp:0.24050632911392406
+map:Sydney_2_1024	path length:Unit: 195	845.0	rtaa imp:0.2125
+map:Sydney_2_1024	path length:Unit: 10	919.00006	rtaa imp:0.2716049382716049
+map:Sydney_2_1024	path length:Unit: 100	994.19995	rtaa imp:0.13414634146341464
+map:Sydney_2_1024	path length:Unit: 55	816.2	rtaa imp:0.21176470588235294
+map:Sydney_2_1024	path length:Unit: 158	819.4	rtaa imp:0.27058823529411763
+map:Sydney_2_1024	path length:Unit: 56	845.4	rtaa imp:0.27586206896551724
+map:Sydney_2_1024	path length:Unit: 101	897.7999	rtaa imp:0.25
+map:Sydney_2_1024	path length:Unit: 74	891.0	rtaa imp:0.1797752808988764
+map:Sydney_2_1024	path length:Unit: 79	848.6001	rtaa imp:0.18888888888888888
+map:Sydney_2_1024	path length:Unit: 140	855.4	rtaa imp:0.2111111111111111
+map:Sydney_2_1024	path length:Unit: 136	913.0	rtaa imp:0.1956521739130435
+map:Sydney_2_1024	path length:Unit: 190	885.4	rtaa imp:0.21505376344086022
+map:Sydney_2_1024	path length:Unit: 138	1203.0	rtaa imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 15	1204.9996	rtaa imp:0.28125
+map:Sydney_2_1024	path length:Unit: 58	989.4	rtaa imp:0.24742268041237114
+map:Sydney_2_1024	path length:Unit: 170	1158.2001	rtaa imp:0.08
+map:Sydney_2_1024	path length:Unit: 82	1035.0	rtaa imp:0.2079207920792079
+map:Sydney_2_1024	path length:Unit: 144	1145.4003	rtaa imp:0.1568627450980392
+map:Sydney_2_1024	path length:Unit: 83	1181.0	rtaa imp:0.25471698113207547
+map:Sydney_2_1024	path length:Unit: 132	1275.8	rtaa imp:0.2616822429906542
+map:Sydney_2_1024	path length:Unit: 149	1261.0001	rtaa imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 64	1128.4001	rtaa imp:0.2545454545454545
+map:Sydney_2_1024	path length:Unit: 124	1173.0	rtaa imp:0.2
+map:Sydney_2_1024	path length:Unit: 199	1438.2	rtaa imp:0.22522522522522523
+map:Sydney_2_1024	path length:Unit: 86	1343.7998	rtaa imp:0.17391304347826086
+map:Sydney_2_1024	path length:Unit: 127	1490.9999	rtaa imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 98	1249.9998	rtaa imp:0.13559322033898305
+map:Sydney_2_1024	path length:Unit: 159	1292.2	rtaa imp:0.23529411764705882
+map:Sydney_2_1024	path length:Unit: 129	1552.2001	rtaa imp:0.19008264462809918
+map:Sydney_2_1024	path length:Unit: 118	1492.9999	rtaa imp:0.2786885245901639
+map:Sydney_2_1024	path length:Unit: 17	1480.9996	rtaa imp:0.3492063492063492
+map:Sydney_2_1024	path length:Unit: 126	1639.0	rtaa imp:0.25984251968503935
+map:Sydney_2_1024	path length:Unit: 20	1249.4	rtaa imp:0.171875
+map:Sydney_2_1024	path length:Unit: 88	1317.6003	rtaa imp:0.203125
+map:Sydney_2_1024	path length:Unit: 173	1369.2001	rtaa imp:0.23529411764705882
+map:Sydney_2_1024	path length:Unit: 179	1112.4001	rtaa imp:0.14093959731543623
+map:Sydney_2_1024	path length:Unit: 81	1627.801	rtaa imp:0.15789473684210525
+map:Sydney_2_1024	path length:Unit: 153	1776.7987	rtaa imp:0.22875816993464052
+map:Sydney_2_1024	path length:Unit: 46	1780.9999	rtaa imp:0.2532467532467532
+map:Sydney_2_1024	path length:Unit: 188	1802.9995	rtaa imp:0.18012422360248448
+map:Sydney_2_1024	path length:Unit: 122	1707.0	rtaa imp:0.24550898203592814
+map:Sydney_2_1024	path length:Unit: 134	1858.7997	rtaa imp:0.18823529411764706
+map:Sydney_2_1024	path length:Unit: 21	2027.0001	rtaa imp:0.3063583815028902
+map:Sydney_2_1024	path length:Unit: 178	1795.8	rtaa imp:0.4124293785310734
+map:Sydney_2_1024	path length:Unit: 182	2541.4006	rtaa imp:0.1902654867256637
+map:Sydney_2_1024	path length:	suc_rate:	0.48
+map:Sydney_2_1024	path length:Unit: 95	2.4	a eaa:0.0	edge time21.0
+map:Sydney_2_1024	path length:	suc_rate:	0.005
+map:Sydney_2_1024	path length:Unit: 95	2.4	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 47	9.799999	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 38	9.2	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 175	10.2	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 43	18.399998	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 63	18.199999	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 155	21.399998	a rep imp:1.0
+map:Sydney_2_1024	path length:Unit: 84	23.8	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 66	22.4	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 90	24.0	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 164	33.799995	a rep imp:0.6666666666666666
+map:Sydney_2_1024	path length:Unit: 93	30.4	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 50	31.4	a rep imp:0.6666666666666666
+map:Sydney_2_1024	path length:Unit: 59	40.799995	a rep imp:0.6666666666666666
+map:Sydney_2_1024	path length:Unit: 34	32.2	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 1	37.6	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 71	35.2	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 5	41.6	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 49	39.8	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 148	46.6	a rep imp:1.0
+map:Sydney_2_1024	path length:Unit: 145	47.999996	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 162	41.6	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 89	43.399998	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 154	50.8	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 68	49.6	a rep imp:0.2
+map:Sydney_2_1024	path length:Unit: 77	57.599995	a rep imp:0.2
+map:Sydney_2_1024	path length:Unit: 166	45.6	a rep imp:0.6
+map:Sydney_2_1024	path length:Unit: 42	60.79999	a rep imp:0.4
+map:Sydney_2_1024	path length:Unit: 150	59.399994	a rep imp:0.4
+map:Sydney_2_1024	path length:Unit: 105	51.6	a rep imp:0.2
+map:Sydney_2_1024	path length:Unit: 12	52.2	a rep imp:0.6
+map:Sydney_2_1024	path length:Unit: 165	65.799995	a rep imp:0.4
+map:Sydney_2_1024	path length:Unit: 191	55.6	a rep imp:0.4
+map:Sydney_2_1024	path length:Unit: 30	54.6	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 13	65.2	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 73	57.4	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 6	58.4	a rep imp:0.16666666666666666
+map:Sydney_2_1024	path length:Unit: 176	65.2	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 4	76.99999	a rep imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 131	66.99999	a rep imp:0.5714285714285714
+map:Sydney_2_1024	path length:Unit: 180	69.0	a rep imp:0.8571428571428571
+map:Sydney_2_1024	path length:Unit: 187	67.799995	a rep imp:0.5714285714285714
+map:Sydney_2_1024	path length:Unit: 44	78.59999	a rep imp:0.14285714285714285
+map:Sydney_2_1024	path length:Unit: 16	88.59999	a rep imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 51	72.6	a rep imp:0.42857142857142855
+map:Sydney_2_1024	path length:Unit: 27	79.99999	a rep imp:0.42857142857142855
+map:Sydney_2_1024	path length:Unit: 85	91.799995	a rep imp:0.42857142857142855
+map:Sydney_2_1024	path length:Unit: 111	83.399994	a rep imp:0.5714285714285714
+map:Sydney_2_1024	path length:Unit: 181	86.2	a rep imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 135	78.0	a rep imp:0.2857142857142857
+map:Sydney_2_1024	path length:Unit: 19	90.99999	a rep imp:0.125
+map:Sydney_2_1024	path length:Unit: 112	85.399994	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 65	97.19999	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 22	85.6	a rep imp:0.75
+map:Sydney_2_1024	path length:Unit: 91	86.2	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 48	96.6	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 195	91.59999	a rep imp:0.375
+map:Sydney_2_1024	path length:Unit: 10	98.2	a rep imp:0.5555555555555556
+map:Sydney_2_1024	path length:Unit: 60	88.2	a rep imp:0.6666666666666666
+map:Sydney_2_1024	path length:Unit: 100	104.79999	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 107	95.99999	a rep imp:0.4444444444444444
+map:Sydney_2_1024	path length:Unit: 167	98.399994	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 55	88.6	a rep imp:0.0
+map:Sydney_2_1024	path length:Unit: 158	88.2	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 32	96.799995	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 56	92.2	a rep imp:0.5555555555555556
+map:Sydney_2_1024	path length:Unit: 74	95.399994	a rep imp:0.2222222222222222
+map:Sydney_2_1024	path length:Unit: 41	100.4	a rep imp:0.4444444444444444
+map:Sydney_2_1024	path length:Unit: 140	90.4	a rep imp:0.1111111111111111
+map:Sydney_2_1024	path length:Unit: 79	93.4	a rep imp:0.3
+map:Sydney_2_1024	path length:Unit: 136	97.6	a rep imp:0.6
+map:Sydney_2_1024	path length:Unit: 190	93.4	a rep imp:0.4
+map:Sydney_2_1024	path length:Unit: 113	118.799995	a rep imp:0.4
+map:Sydney_2_1024	path length:Unit: 138	126.59999	a rep imp:0.6
+map:Sydney_2_1024	path length:Unit: 139	112.99999	a rep imp:0.6
+map:Sydney_2_1024	path length:Unit: 15	126.8	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 98	109.99999	a rep imp:0.3
+map:Sydney_2_1024	path length:Unit: 151	113.0	a rep imp:0.2
+map:Sydney_2_1024	path length:Unit: 192	105.2	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 58	105.0	a rep imp:0.1
+map:Sydney_2_1024	path length:Unit: 82	109.799995	a rep imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 3	123.6	a rep imp:0.6363636363636364
+map:Sydney_2_1024	path length:Unit: 144	120.799995	a rep imp:0.2727272727272727
+map:Sydney_2_1024	path length:Unit: 54	112.399994	a rep imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 83	124.399994	a rep imp:0.09090909090909091
+map:Sydney_2_1024	path length:Unit: 132	134.59999	a rep imp:0.18181818181818182
+map:Sydney_2_1024	path length:Unit: 161	135.2	a rep imp:0.45454545454545453
+map:Sydney_2_1024	path length:Unit: 101	122.6	a rep imp:0.7272727272727273
+map:Sydney_2_1024	path length:Unit: 149	133.0	a rep imp:0.45454545454545453
+map:Sydney_2_1024	path length:Unit: 124	123.59999	a rep imp:0.36363636363636365
+map:Sydney_2_1024	path length:Unit: 170	130.79999	a rep imp:0.5454545454545454
+map:Sydney_2_1024	path length:Unit: 64	123.2	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 172	133.79999	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 193	129.0	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 70	125.6	a rep imp:0.4166666666666667
+map:Sydney_2_1024	path length:Unit: 86	142.99998	a rep imp:0.4166666666666667
+map:Sydney_2_1024	path length:Unit: 99	133.6	a rep imp:0.3333333333333333
+map:Sydney_2_1024	path length:Unit: 127	155.4	a rep imp:0.25
+map:Sydney_2_1024	path length:Unit: 168	135.59999	a rep imp:0.4166666666666667
+map:Sydney_2_1024	path length:Unit: 159	135.4	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 143	144.4	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 129	161.79999	a rep imp:0.46153846153846156
+map:Sydney_2_1024	path length:Unit: 118	159.59999	a rep imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 17	153.59999	a rep imp:0.23076923076923078
+map:Sydney_2_1024	path length:Unit: 126	170.19998	a rep imp:0.15384615384615385
+map:Sydney_2_1024	path length:Unit: 20	131.2	a rep imp:0.46153846153846156
+map:Sydney_2_1024	path length:Unit: 88	142.4	a rep imp:0.15384615384615385
+map:Sydney_2_1024	path length:Unit: 134	152.0	a rep imp:0.3076923076923077
+map:Sydney_2_1024	path length:Unit: 169	156.2	a rep imp:0.5714285714285714
+map:Sydney_2_1024	path length:Unit: 199	166.0	a rep imp:0.21428571428571427
+map:Sydney_2_1024	path length:Unit: 194	179.79999	a rep imp:0.6666666666666666
+map:Sydney_2_1024	path length:Unit: 173	152.8	a rep imp:0.5333333333333333
+map:Sydney_2_1024	path length:Unit: 157	175.59998	a rep imp:0.4666666666666667
+map:Sydney_2_1024	path length:Unit: 46	184.4	a rep imp:0.3125
+map:Sydney_2_1024	path length:Unit: 7	163.79999	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 61	190.99998	a rep imp:0.1875
+map:Sydney_2_1024	path length:Unit: 81	173.8	a rep imp:0.4375
+map:Sydney_2_1024	path length:Unit: 0	194.6	a rep imp:0.0625
+map:Sydney_2_1024	path length:Unit: 128	186.4	a rep imp:0.375
+map:Sydney_2_1024	path length:Unit: 23	186.19998	a rep imp:0.35294117647058826
+map:Sydney_2_1024	path length:Unit: 72	206.59998	a rep imp:0.23529411764705882
+map:Sydney_2_1024	path length:Unit: 53	179.2	a rep imp:0.35294117647058826
+map:Sydney_2_1024	path length:Unit: 188	188.39998	a rep imp:0.5294117647058824
+map:Sydney_2_1024	path length:Unit: 122	177.0	a rep imp:0.4117647058823529
+map:Sydney_2_1024	path length:Unit: 21	208.99998	a rep imp:0.3888888888888889
+map:Sydney_2_1024	path length:Unit: 171	206.99998	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 178	185.79999	a rep imp:0.3888888888888889
+map:Sydney_2_1024	path length:Unit: 109	182.0	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 78	239.79999	a rep imp:0.2631578947368421
+map:Sydney_2_1024	path length:Unit: 31	212.19998	a rep imp:0.3157894736842105
+map:Sydney_2_1024	path length:Unit: 103	241.99998	a rep imp:0.2
+map:Sydney_2_1024	path length:Unit: 97	217.4	a rep imp:0.3
+map:Sydney_2_1024	path length:Unit: 9	250.59999	a rep imp:0.45454545454545453
+map:Sydney_2_1024	path length:Unit: 182	264.8	a rep imp:0.5
+map:Sydney_2_1024	path length:Unit: 147	298.6	a rep imp:0.6538461538461539
+map:Sydney_2_1024	path length:	suc_rate:	0.675

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kilavuz-run-0.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kilavuz-run-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
